@@ -13,13 +13,21 @@ In this Arxiv, latest literature from NIPS, ICML, ICLR, etc will be covered (on-
 
 - [[AIES2021] Uncertainty as a form of transparency: Measuring, communicating, and using uncertainty](https://dl.acm.org/doi/abs/10.1145/3461702.3462571)
 
-- [[ ]  ]()
+- [[arXiv2020] A Survey on Assessing the Generalization Envelope of Deep Neural Networks](https://arxiv.org/abs/2008.09381)
 
+
+- [[NeurIPS2020] Tutorial: (Track2) Practical Uncertainty Estimation and Out-of-Distribution Robustness in Deep Learning](https://nips.cc/virtual/2020/public/tutorial_0f190e6e164eafe66f011073b4486975.html)
+
+- [[NeurIPS2021] Workshop: Bayesian Deep Learning](http://bayesiandeeplearning.org/)
 
 
 
 ## Dataset and Benchmarking:
+- [[NeurIPS2021] Can you trust your model's uncertainty? Evaluating predictive uncertainty under dataset shift](https://proceedings.neurips.cc/paper/2019/hash/8558cb408c1d76621371888657d2eb1d-Abstract.html)
 
+- [[ICLR2019] Benchmarking neural network robustness to common corruptions and perturbations](https://openreview.net/forum?id=HJz6tiCqYm)
+
+- [[NeurIPS2021] Benchmarking Bayesian Deep Learning on Diabetic Retinopathy Detection Tasks](https://openreview.net/forum?id=jyd4Lyjr2iB)
 
 ## Bayesian Deep Learning:
 
