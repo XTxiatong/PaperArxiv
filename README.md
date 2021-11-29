@@ -9,6 +9,7 @@ In this Arxiv, latest literature from NIPS, ICML, ICLR, etc will be covered (on-
 
 - [[arXiv2020] A Survey of Uncertainty in Deep Neural Networks](https://arxiv.org/abs/2107.03342)
 
+![image](https://user-images.githubusercontent.com/26398708/143865096-85099b9f-723c-4fb0-bba7-b679bb5f107b.png)
 
 
 
