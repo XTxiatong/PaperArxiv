@@ -30,21 +30,30 @@ In this Arxiv, latest literature from NIPS, ICML, ICLR, etc will be covered (on-
 - [[NeurIPS2021] Benchmarking Bayesian Deep Learning on Diabetic Retinopathy Detection Tasks](https://openreview.net/forum?id=jyd4Lyjr2iB)
 
 ## Bayesian Deep Learning:
-- [[ICML2016] Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning](http://proceedings.mlr.press/v48/gal16.html)
+- [[ICML2016] Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning (MCDropout)](http://proceedings.mlr.press/v48/gal16.html)
+- [[NeurIPS2019] A simple baseline for bayesian uncertainty in deep learning (SWAG)](https://proceedings.neurips.cc/paper/2019/file/118921efba23fc329e6560b27861f0c2-Paper.pdf)
+
+### Confidence:
+
+
+### Ensemble:
 - [[NeurIPS2017] Simple and Scalable Predictive Uncertainty
 Estimation using Deep Ensembles](https://proceedings.neurips.cc/paper/2017/file/9ef2ed4b7fd2c810847ffa5fa85bce38-Paper.pdf)
 - [[NeurIPS2019] Accurate Uncertainty Estimation and Decomposition in Ensemble Learning](https://proceedings.neurips.cc/paper/2019/hash/1cc8a8ea51cd0adddf5dab504a285915-Abstract.html)
-- 
+- [[ICLR2021] Training independent subnetworks for robust prediction](https://openreview.net/forum?id=OGg9XnKxFAH)
 
-## Calibration:
+### Calibration:
  - [[ICML2017] On calibration of modern neural networks](http://proceedings.mlr.press/v70/guo17a.html)
  - [[NeurIPS2019] On calibration of modern neural networks](https://openreview.net/forum?id=rkxluVHeLB)
  - [[NeurIPS2020] Improving model calibration with accuracy versus uncertainty optimization](https://proceedings.neurips.cc/paper/2020/hash/d3d9446802a44259755d38e6d163e820-Abstract.html)
+ - [[ICML2020] Mix-n-match: Ensemble and compositional methods for uncertainty calibration in deep learning](http://proceedings.mlr.press/v119/zhang20k.html)
+ - 
  
 ## Out-of-distribution Detection: 
 
 
 
 ## Non-parametric Gaussian Process:
-
+ - [[NeurIPS2020]Simple and Principled Uncertainty Estimation with Deterministic Deep Learning via Distance Awareness](https://papers.nips.cc/paper/2020/file/543e83748234f7cbab21aa0ade66565f-Paper.pdf)
+ - 
 
