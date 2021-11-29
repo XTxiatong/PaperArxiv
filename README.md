@@ -23,15 +23,24 @@ In this Arxiv, latest literature from NIPS, ICML, ICLR, etc will be covered (on-
 
 
 ## Dataset and Benchmarking:
-- [[NeurIPS2021] Can you trust your model's uncertainty? Evaluating predictive uncertainty under dataset shift](https://proceedings.neurips.cc/paper/2019/hash/8558cb408c1d76621371888657d2eb1d-Abstract.html)
+- [[NeurIPS2019] Can you trust your model's uncertainty? Evaluating predictive uncertainty under dataset shift](https://proceedings.neurips.cc/paper/2019/hash/8558cb408c1d76621371888657d2eb1d-Abstract.html)
 
 - [[ICLR2019] Benchmarking neural network robustness to common corruptions and perturbations](https://openreview.net/forum?id=HJz6tiCqYm)
 
 - [[NeurIPS2021] Benchmarking Bayesian Deep Learning on Diabetic Retinopathy Detection Tasks](https://openreview.net/forum?id=jyd4Lyjr2iB)
 
 ## Bayesian Deep Learning:
+- [[ICML2016] Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning](http://proceedings.mlr.press/v48/gal16.html)
+- [[NeurIPS2017] Simple and Scalable Predictive Uncertainty
+Estimation using Deep Ensembles](https://proceedings.neurips.cc/paper/2017/file/9ef2ed4b7fd2c810847ffa5fa85bce38-Paper.pdf)
+- [[NeurIPS2019] Accurate Uncertainty Estimation and Decomposition in Ensemble Learning](https://proceedings.neurips.cc/paper/2019/hash/1cc8a8ea51cd0adddf5dab504a285915-Abstract.html)
+- 
 
-
+## Calibration:
+ - [[ICML2017] On calibration of modern neural networks](http://proceedings.mlr.press/v70/guo17a.html)
+ - [[NeurIPS2019] On calibration of modern neural networks](https://openreview.net/forum?id=rkxluVHeLB)
+ - [[NeurIPS2020] Improving model calibration with accuracy versus uncertainty optimization](https://proceedings.neurips.cc/paper/2020/hash/d3d9446802a44259755d38e6d163e820-Abstract.html)
+ 
 ## Out-of-distribution Detection: 
 
 
