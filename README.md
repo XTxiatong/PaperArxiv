@@ -15,15 +15,14 @@ In this Arxiv, latest literature from NIPS, ICML, ICLR, etc will be covered (on-
 
 ## Dataset and Benchmarking:
 - [[NeurIPS2019] Can you trust your model's uncertainty? Evaluating predictive uncertainty under dataset shift](https://proceedings.neurips.cc/paper/2019/hash/8558cb408c1d76621371888657d2eb1d-Abstract.html)
-
 - [[ICLR2019] Benchmarking neural network robustness to common corruptions and perturbations](https://openreview.net/forum?id=HJz6tiCqYm)
-
 - [[NeurIPS2021] Benchmarking Bayesian Deep Learning on Diabetic Retinopathy Detection Tasks](https://openreview.net/forum?id=jyd4Lyjr2iB)
 
 ## Bayesian Deep Learning:
 - [[ICML2016] Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning (MCDropout)](http://proceedings.mlr.press/v48/gal16.html)
 - [[NeurIPS2019] A simple baseline for bayesian uncertainty in deep learning (SWAG)](https://proceedings.neurips.cc/paper/2019/file/118921efba23fc329e6560b27861f0c2-Paper.pdf)
 - [[NeurIPS2020] Simple and Principled Uncertainty Estimation with Deterministic Deep Learning via Distance Awareness](https://proceedings.neurips.cc/paper/2020/hash/543e83748234f7cbab21aa0ade66565f-Abstract.html)
+- [[NeurIPS2018] Evidential deep learning to quantify classification uncertainty](https://proceedings.neurips.cc/paper/2018/file/a981f2b708044d6fb4a71a1463242520-Paper.pdf)
 - [[NeurIPS2018] Predictive Uncertainty Estimation via Prior Networks](https://proceedings.neurips.cc/paper/2018/hash/3ea2db50e62ceefceaf70a9d9a56a6f4-Abstract.html)
 - [[NeurIPS2020] Posterior Network: Uncertainty Estimation without OOD Samples via Density-Based Pseudo-Counts](https://proceedings.neurips.cc/paper/2020/hash/0eac690d7059a8de4b48e90f14510391-Abstract.html)
 - [[NeurIPS2020] Liberty or Depth: Deep Bayesian Neural Nets Do Not Need Complex Weight Posterior Approximations](https://proceedings.neurips.cc/paper/2020/hash/2dfe1946b3003933b7f8ddd71f24dbb1-Abstract.html)
@@ -79,7 +78,7 @@ Learning Causal Semantic Representation for Out-of-Distribution Prediction](http
 - [[NeurIPS2019] Likelihood Ratios for Out-of-Distribution Detection](https://proceedings.neurips.cc/paper/2019/hash/1e79596878b2320cac26dd792a6c51c9-Abstract.html)
 - [[NeurIPS2020] Likelihood Regret: An Out-of-Distribution Detection Score For Variational Auto-encoder](https://proceedings.neurips.cc/paper/2020/hash/eddea82ad2755b24c4e168c5fc2ebd40-Abstract.html)
 - [[NeurIPS2021] Locally Most Powerful Bayesian Test for Out-of-Distribution Detection using Deep Generative Models](https://proceedings.neurips.cc/paper/2021/hash/7d3e28d14440d6c07f73b7557e3d9602-Abstract.html)
-- 
+-
 
 #### With exposure:
 - [[NeurIPS2020] Towards Maximizing the Representation Gap between In-Domain & Out-of-Distribution Examples](https://proceedings.neurips.cc/paper/2020/hash/68d3743587f71fbaa5062152985aff40-Abstract.html)
