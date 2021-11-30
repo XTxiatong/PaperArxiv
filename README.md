@@ -83,7 +83,7 @@ Learning Causal Semantic Representation for Out-of-Distribution Prediction](http
 #### With exposure:
 - [[NeurIPS2018] Predictive Uncertainty Estimation via Prior Networks](https://proceedings.neurips.cc/paper/2018/hash/3ea2db50e62ceefceaf70a9d9a56a6f4-Abstract.html)
   - [[video](https://www.youtube.com/watch?v=uuXFDGvNKjs)]
-  - ![image](https://user-images.githubusercontent.com/26398708/144079471-1eee3828-3ec5-4fa2-bf2b-58f2b8260bef.png)
+  - ![image](https://user-images.githubusercontent.com/26398708/144079754-2ac68535-70b4-4f2f-afb1-0e40df1e1fc9.png)
 - [[NeurIPS2020] Towards Maximizing the Representation Gap between In-Domain & Out-of-Distribution Examples](https://proceedings.neurips.cc/paper/2020/hash/68d3743587f71fbaa5062152985aff40-Abstract.html)
 - [[NeurIPS2020] OOD-MAML: Meta-Learning for Few-Shot Out-of-Distribution Detection and Classification](https://proceedings.neurips.cc/paper/2020/hash/28e209b61a52482a0ae1cb9f5959c792-Abstract.html)
 
