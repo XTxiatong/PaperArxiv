@@ -44,16 +44,28 @@ Estimation using Deep Ensembles](https://proceedings.neurips.cc/paper/2017/file/
  - [[NeurIPS2020] Improving model calibration with accuracy versus uncertainty optimization](https://proceedings.neurips.cc/paper/2020/hash/d3d9446802a44259755d38e6d163e820-Abstract.html)
  - [[ICML2020] Mix-n-match: Ensemble and compositional methods for uncertainty calibration in deep learning](http://proceedings.mlr.press/v119/zhang20k.html)
 
- 
+### Gradient method:
+- [[NeurIPS2019] A simple baseline for bayesian uncertainty in deep learning (SWAG)](https://proceedings.neurips.cc/paper/2019/file/118921efba23fc329e6560b27861f0c2-Paper.pdf)
+- [[NeurIPS2021] On the Importance of Gradients for Detecting Distributional Shifts in the Wild (GradNorm)](https://proceedings.neurips.cc/paper/2021/hash/0607f4c705595b911a4f3e7a127b44e0-Abstract.html)
+
+
 ## Out-of-distribution Detection: 
 ### Emperical and theoretical:
  - [[NeurIPS2020] Why Normalizing Flows Fail to Detect Out-of-Distribution Data](https://proceedings.neurips.cc/paper/2020/hash/ecb9fe2fbb99c31f567e9823e884dbec-Abstract.html)
  - [[NeurIPS2020] On the Value of Out-of-Distribution Testing: An Example of Goodhart's Law](https://proceedings.neurips.cc/paper/2020/hash/045117b0e0a11a242b9765e79cbf113f-Abstract.html)
  - [[NeurIPS2021] Exploring the Limits of Out-of-Distribution Detection](https://proceedings.neurips.cc/paper/2021/hash/3941c4358616274ac2436eacf67fae05-Abstract.html)
-
+ - [[NeurIPS2021] A Winning Hand: Compressing Deep Networks Can Improve Out-of-Distribution Robustness](A Winning Hand: Compressing Deep Networks Can Improve Out-of-Distribution Robustness)
+ 
 ### OOD detection:
+#### Without exposure:
 - [[ICIR2017] A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks (Softmax)](https://openreview.net/forum?id=Hkg4TI9xl)
 - [[NeurIPS2019] Likelihood Ratios for Out-of-Distribution Detection](https://proceedings.neurips.cc/paper/2019/hash/1e79596878b2320cac26dd792a6c51c9-Abstract.html)
+- [[NeurIPS2021] On the Importance of Gradients for Detecting Distributional Shifts in the Wild (GradNorm)](https://proceedings.neurips.cc/paper/2021/hash/0607f4c705595b911a4f3e7a127b44e0-Abstract.html)
+#### With exposure:
+
+- 
+
+
 
 ## Non-parametric Gaussian Process:
  - [[NeurIPS2020]Simple and Principled Uncertainty Estimation with Deterministic Deep Learning via Distance Awareness](https://papers.nips.cc/paper/2020/file/543e83748234f7cbab21aa0ade66565f-Paper.pdf)
