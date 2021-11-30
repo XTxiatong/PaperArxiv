@@ -79,10 +79,10 @@ Learning Causal Semantic Representation for Out-of-Distribution Prediction](http
 - [[NeurIPS2020] Likelihood Regret: An Out-of-Distribution Detection Score For Variational Auto-encoder](https://proceedings.neurips.cc/paper/2020/hash/eddea82ad2755b24c4e168c5fc2ebd40-Abstract.html)
 - [[NeurIPS2021] Locally Most Powerful Bayesian Test for Out-of-Distribution Detection using Deep Generative Models](https://proceedings.neurips.cc/paper/2021/hash/7d3e28d14440d6c07f73b7557e3d9602-Abstract.html)
 
-#### With exposure:
+#### With exposure (Dirichlet Distribution and Evidential Perspective):
 - [[NeurIPS2018] Predictive Uncertainty Estimation via Prior Networks](https://proceedings.neurips.cc/paper/2018/hash/3ea2db50e62ceefceaf70a9d9a56a6f4-Abstract.html)
   - [[video](https://www.youtube.com/watch?v=uuXFDGvNKjs)]
-  - ![image](https://user-images.githubusercontent.com/26398708/144079754-2ac68535-70b4-4f2f-afb1-0e40df1e1fc9.png)
+  ![image](https://user-images.githubusercontent.com/26398708/144079754-2ac68535-70b4-4f2f-afb1-0e40df1e1fc9.png)
 - [[NeurIPS2018] Evidential deep learning to quantify classification uncertainty](https://proceedings.neurips.cc/paper/2018/file/a981f2b708044d6fb4a71a1463242520-Paper.pdf)
   - [[video](https://www.youtube.com/watch?v=toTcf7tZK8c)][[Github](https://github.com/aamini/evidential-deep-learning/)][[Codes](https://github.com/muratsensoy/muratsensoy.github.io)]
   ![image](https://user-images.githubusercontent.com/26398708/144141888-9e777456-404b-4f0d-a0a1-103032958c99.png)
