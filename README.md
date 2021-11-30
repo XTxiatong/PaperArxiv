@@ -23,7 +23,11 @@ In this Arxiv, latest literature from NIPS, ICML, ICLR, etc will be covered (on-
 ## Bayesian Deep Learning:
 - [[ICML2016] Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning (MCDropout)](http://proceedings.mlr.press/v48/gal16.html)
 - [[NeurIPS2019] A simple baseline for bayesian uncertainty in deep learning (SWAG)](https://proceedings.neurips.cc/paper/2019/file/118921efba23fc329e6560b27861f0c2-Paper.pdf)
-- 
+- [[NeurIPS2020] Simple and Principled Uncertainty Estimation with Deterministic Deep Learning via Distance Awareness](https://proceedings.neurips.cc/paper/2020/hash/543e83748234f7cbab21aa0ade66565f-Abstract.html)
+- [[NeurIPS2018] Predictive Uncertainty Estimation via Prior Networks](https://proceedings.neurips.cc/paper/2018/hash/3ea2db50e62ceefceaf70a9d9a56a6f4-Abstract.html)
+- [[NeurIPS2020] Posterior Network: Uncertainty Estimation without OOD Samples via Density-Based Pseudo-Counts](https://proceedings.neurips.cc/paper/2020/hash/0eac690d7059a8de4b48e90f14510391-Abstract.html)
+- [[NeurIPS2020] Liberty or Depth: Deep Bayesian Neural Nets Do Not Need Complex Weight Posterior Approximations](https://proceedings.neurips.cc/paper/2020/hash/2dfe1946b3003933b7f8ddd71f24dbb1-Abstract.html)
+- [[NeurIPS2020] Posterior Re-calibration for Imbalanced Datasets](https://proceedings.neurips.cc/paper/2020/hash/5ca359ab1e9e3b9c478459944a2d9ca5-Abstract.html)
 
 ### Confidence:
 - [[NeurIPS2018] To Trust Or Not To Trust A Classifier (Trust Score)](https://openreview.net/forum?id=HkZFuPbubr)
@@ -49,13 +53,14 @@ Estimation using Deep Ensembles](https://proceedings.neurips.cc/paper/2017/file/
 - [[NeurIPS2021] On the Importance of Gradients for Detecting Distributional Shifts in the Wild (GradNorm)](https://proceedings.neurips.cc/paper/2021/hash/0607f4c705595b911a4f3e7a127b44e0-Abstract.html)
 
 
+
 ## Out-of-distribution Detection: 
 ### Emperical and theoretical:
  - [[NeurIPS2020] Why Normalizing Flows Fail to Detect Out-of-Distribution Data](https://proceedings.neurips.cc/paper/2020/hash/ecb9fe2fbb99c31f567e9823e884dbec-Abstract.html)
  - [[NeurIPS2020] On the Value of Out-of-Distribution Testing: An Example of Goodhart's Law](https://proceedings.neurips.cc/paper/2020/hash/045117b0e0a11a242b9765e79cbf113f-Abstract.html)
  - [[NeurIPS2021] Exploring the Limits of Out-of-Distribution Detection](https://proceedings.neurips.cc/paper/2021/hash/3941c4358616274ac2436eacf67fae05-Abstract.html)
  - [[NeurIPS2021] A Winning Hand: Compressing Deep Networks Can Improve Out-of-Distribution Robustness](https://proceedings.neurips.cc/paper/2021/hash/0607f4c705595b911a4f3e7a127b44e0-Abstract.html)
- - 
+
  
 ### OOD detection:
 #### Without exposure:
@@ -74,12 +79,16 @@ Learning Causal Semantic Representation for Out-of-Distribution Prediction](http
 - [[NeurIPS2019] Likelihood Ratios for Out-of-Distribution Detection](https://proceedings.neurips.cc/paper/2019/hash/1e79596878b2320cac26dd792a6c51c9-Abstract.html)
 - [[NeurIPS2020] Likelihood Regret: An Out-of-Distribution Detection Score For Variational Auto-encoder](https://proceedings.neurips.cc/paper/2020/hash/eddea82ad2755b24c4e168c5fc2ebd40-Abstract.html)
 - [[NeurIPS2021] Locally Most Powerful Bayesian Test for Out-of-Distribution Detection using Deep Generative Models](https://proceedings.neurips.cc/paper/2021/hash/7d3e28d14440d6c07f73b7557e3d9602-Abstract.html)
-
-
+- 
 
 #### With exposure:
 - [[NeurIPS2020] Towards Maximizing the Representation Gap between In-Domain & Out-of-Distribution Examples](https://proceedings.neurips.cc/paper/2020/hash/68d3743587f71fbaa5062152985aff40-Abstract.html)
-- 
+- [[NeurIPS2020] OOD-MAML: Meta-Learning for Few-Shot Out-of-Distribution Detection and Classification](https://proceedings.neurips.cc/paper/2020/hash/28e209b61a52482a0ae1cb9f5959c792-Abstract.html)
+
+#### OOD generalization:
+- [[NeurIPS2021] On the Out-of-distribution Generalization of Probabilistic Image Modelling](https://proceedings.neurips.cc/paper/2021/hash/1f88c7c5d7d94ae08bd752aa3d82108b-Abstract.html)
+- [[NeurIPS2021] Characterizing Generalization under Out-Of-Distribution Shifts in Deep Metric Learning](https://proceedings.neurips.cc/paper/2021/hash/d1f255a373a3cef72e03aa9d980c7eca-Abstract.html)
+- [[NeurIPS2021] Towards a Theoretical Framework of Out-of-Distribution Generalization](https://proceedings.neurips.cc/paper/2021/hash/c5c1cb0bebd56ae38817b251ad72bedb-Abstract.html)
 
 
 
