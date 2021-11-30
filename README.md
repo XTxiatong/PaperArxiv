@@ -30,6 +30,7 @@ In this Arxiv, latest literature from NIPS, ICML, ICLR, etc will be covered (on-
 
 ### Confidence:
 - [[NeurIPS2018] To Trust Or Not To Trust A Classifier (Trust Score)](https://openreview.net/forum?id=HkZFuPbubr)
+- [[ICLR2018] Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples (uniform distribution)](https://openreview.net/forum?id=ryiAv2xAZ)
 - [[NeurIPS2019] Addressing Failure Prediction by Learning Model Confidence (ConfidNet)](https://papers.nips.cc/paper/2019/hash/757f843a169cc678064d9530d12a1881-Abstract.html)
 - [[NeurIPS2019] Accurate Layerwise Interpretable Competence Estimation (ALICE)](https://proceedings.neurips.cc/paper/2019/hash/a11da6bd58b95b334f8cd49f00918f16-Abstract.html)
 - [[ICML2020] Confidence-Aware Learning for Deep Neural Networks (Correctness Ranking Loss)](http://proceedings.mlr.press/v119/moon20a.html)
