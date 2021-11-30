@@ -21,6 +21,7 @@ In this Arxiv, latest literature from NIPS, ICML, ICLR, etc will be covered (on-
 ## Bayesian Deep Learning:
 - [[ICML2016] Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning (MCDropout)](http://proceedings.mlr.press/v48/gal16.html)
 - [[NeurIPS2019] A simple baseline for bayesian uncertainty in deep learning (SWAG)](https://proceedings.neurips.cc/paper/2019/file/118921efba23fc329e6560b27861f0c2-Paper.pdf)
+  - [[Video and codes](https://www.youtube.com/watch?v=5WOj_ZZJ2wM)]
 - [[NeurIPS2020] Simple and Principled Uncertainty Estimation with Deterministic Deep Learning via Distance Awareness](https://proceedings.neurips.cc/paper/2020/hash/543e83748234f7cbab21aa0ade66565f-Abstract.html)
 - [[NeurIPS2018] Evidential deep learning to quantify classification uncertainty](https://proceedings.neurips.cc/paper/2018/file/a981f2b708044d6fb4a71a1463242520-Paper.pdf)
   - [[video](https://www.youtube.com/watch?v=toTcf7tZK8c)]
