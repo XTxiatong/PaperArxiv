@@ -72,7 +72,10 @@ Estimation using Deep Ensembles](https://proceedings.neurips.cc/paper/2017/file/
 Learning Causal Semantic Representation for Out-of-Distribution Prediction](https://proceedings.neurips.cc/paper/2021/hash/310614fca8fb8e5491295336298c340f-Abstract.html)
 - [[NeurIPS2021] STEP: Out-of-Distribution Detection in the Presence of Limited In-Distribution Labeled Data](https://proceedings.neurips.cc/paper/2021/hash/f4334c131c781e2a6f0a5e34814c8147-Abstract.html)
 - [[NeurIPS2021] Task-Agnostic Undesirable Feature Deactivation Using Out-of-Distribution Data](https://proceedings.neurips.cc/paper/2021/hash/21186d7b1482412ab14f0332b8aee119-Abstract.html)
-
+- [[NeurIPS2018] Evidential deep learning to quantify classification uncertainty](https://proceedings.neurips.cc/paper/2018/file/a981f2b708044d6fb4a71a1463242520-Paper.pdf)
+  - [[video](https://www.youtube.com/watch?v=toTcf7tZK8c)][[Github](https://github.com/aamini/evidential-deep-learning/)][[Codes](https://github.com/muratsensoy/muratsensoy.github.io)]
+  ![image](https://user-images.githubusercontent.com/26398708/144141888-9e777456-404b-4f0d-a0a1-103032958c99.png)
+  [[ICCV2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Bao_Evidential_Deep_Learning_for_Open_Set_Action_Recognition_ICCV_2021_paper.pdf)]
 
 ##### Generative model:
 - [[NeurIPS2019] Likelihood Ratios for Out-of-Distribution Detection](https://proceedings.neurips.cc/paper/2019/hash/1e79596878b2320cac26dd792a6c51c9-Abstract.html)
@@ -83,9 +86,6 @@ Learning Causal Semantic Representation for Out-of-Distribution Prediction](http
 - [[NeurIPS2018] Predictive Uncertainty Estimation via Prior Networks](https://proceedings.neurips.cc/paper/2018/hash/3ea2db50e62ceefceaf70a9d9a56a6f4-Abstract.html)
   - [[video](https://www.youtube.com/watch?v=uuXFDGvNKjs)]
   ![image](https://user-images.githubusercontent.com/26398708/144079754-2ac68535-70b4-4f2f-afb1-0e40df1e1fc9.png)
-- [[NeurIPS2018] Evidential deep learning to quantify classification uncertainty](https://proceedings.neurips.cc/paper/2018/file/a981f2b708044d6fb4a71a1463242520-Paper.pdf)
-  - [[video](https://www.youtube.com/watch?v=toTcf7tZK8c)][[Github](https://github.com/aamini/evidential-deep-learning/)][[Codes](https://github.com/muratsensoy/muratsensoy.github.io)]
-  ![image](https://user-images.githubusercontent.com/26398708/144141888-9e777456-404b-4f0d-a0a1-103032958c99.png)
 - [[NeurIPS2020] Towards Maximizing the Representation Gap between In-Domain & Out-of-Distribution Examples](https://proceedings.neurips.cc/paper/2020/hash/68d3743587f71fbaa5062152985aff40-Abstract.html)
 - [[NeurIPS2020] OOD-MAML: Meta-Learning for Few-Shot Out-of-Distribution Detection and Classification](https://proceedings.neurips.cc/paper/2020/hash/28e209b61a52482a0ae1cb9f5959c792-Abstract.html)
 
