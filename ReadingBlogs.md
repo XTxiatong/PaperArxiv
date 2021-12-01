@@ -10,4 +10,5 @@ Three strong but non-realistic assumptions:
 2. OOD exposure during training
 3. Differential entropy can be nagetive (no sense)
 
+![image](https://user-images.githubusercontent.com/26398708/144252840-c937d419-df0a-4005-b378-ff9f7c07fb38.png)
 
