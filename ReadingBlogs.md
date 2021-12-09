@@ -9,6 +9,7 @@ Three strong but non-realistic assumptions:
 1. An arbitary target prior *D(1)*
 2. OOD exposure during training
 3. Differential entropy can be nagetive (no sense)
-
+NIPS2020 (2021 with graph based) paper overcame those limitations: 
 ![image](https://user-images.githubusercontent.com/26398708/144252840-c937d419-df0a-4005-b378-ff9f7c07fb38.png)
 
+How to train the density flow?
