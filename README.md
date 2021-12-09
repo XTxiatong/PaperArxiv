@@ -64,7 +64,9 @@ Estimation using Deep Ensembles](https://proceedings.neurips.cc/paper/2017/file/
 ### OOD detection:
 #### Without exposure:
 - [[ICIR2017] A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks (Softmax)](https://openreview.net/forum?id=Hkg4TI9xl)
+- [[ICLR2018] Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks (ODIN)](https://openreview.net/forum?id=H1VGkIxRZ)
 - [[NeurIPS2020] Certifiably Adversarially Robust Detection of Out-of-Distribution Data](https://proceedings.neurips.cc/paper/2020/hash/b90c46963248e6d7aab1e0f429743ca0-Abstract.html)
+- [[NeurIPS202] Energy-based Out-of-distribution Detection (Energy score)](https://proceedings.neurips.cc/paper/2020/hash/f5496252609c43eb8a3d147ab9b9c006-Abstract.html)
 - [[NeurIPS2021] On the Importance of Gradients for Detecting Distributional Shifts in the Wild (GradNorm)](https://proceedings.neurips.cc/paper/2021/hash/0607f4c705595b911a4f3e7a127b44e0-Abstract.html)
 - [[NeurIPS2021] ReAct: Out-of-distribution Detection With Rectified Activations](https://proceedings.neurips.cc/paper/2021/hash/01894d6f048493d2cacde3c579c315a3-Abstract.html)
 - [[NeurIPS2021] Single Layer Predictive Normalized Maximum Likelihood for Out-of-Distribution Detection](https://proceedings.neurips.cc/paper/2021/hash/093b60fd0557804c8ba0cbf1453da22f-Abstract.html)
