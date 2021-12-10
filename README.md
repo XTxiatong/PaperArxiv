@@ -45,6 +45,8 @@ Estimation using Deep Ensembles](https://proceedings.neurips.cc/paper/2017/file/
  - [[NeurIPS2019] Verified Uncertainty Calibration](https://openreview.net/forum?id=rkxluVHeLB)
  - [[NeurIPS2020] Improving model calibration with accuracy versus uncertainty optimization](https://proceedings.neurips.cc/paper/2020/hash/d3d9446802a44259755d38e6d163e820-Abstract.html)
  - [[ICML2020] Mix-n-match: Ensemble and compositional methods for uncertainty calibration in deep learning](http://proceedings.mlr.press/v119/zhang20k.html)
+ - [[NeurIPS2020] Posterior Re-calibration for Imbalanced Datasets (a single
+hyper-parameter.)](https://proceedings.neurips.cc/paper/2020/hash/5ca359ab1e9e3b9c478459944a2d9ca5-Abstract.html)
 
 ### Gradient method:
 - [[NeurIPS2019] A simple baseline for bayesian uncertainty in deep learning (SWAG)](https://proceedings.neurips.cc/paper/2019/file/118921efba23fc329e6560b27861f0c2-Paper.pdf)
