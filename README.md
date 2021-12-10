@@ -39,6 +39,7 @@ In this Arxiv, latest literature from NIPS, ICML, ICLR, etc will be covered (on-
 Estimation using Deep Ensembles](https://proceedings.neurips.cc/paper/2017/file/9ef2ed4b7fd2c810847ffa5fa85bce38-Paper.pdf)
 - [[NeurIPS2019] Accurate Uncertainty Estimation and Decomposition in Ensemble Learning](https://proceedings.neurips.cc/paper/2019/hash/1cc8a8ea51cd0adddf5dab504a285915-Abstract.html)
 - [[ICLR2021] Training independent subnetworks for robust prediction (MIMO)](https://openreview.net/forum?id=OGg9XnKxFAH)
+- [[NeurIPS2019]Scaling Ensemble Distribution Distillation to Many Classes with Proxy Targets (A Malinin and M Gales, Ensemble+Dirichlet)]()
 
 ### Calibration:
  - [[ICML2017] On calibration of modern neural networks (T-Scaling)](http://proceedings.mlr.press/v70/guo17a.html)
@@ -94,9 +95,10 @@ Learning Causal Semantic Representation for Out-of-Distribution Prediction](http
 - [[NeurIPS2021] Locally Most Powerful Bayesian Test for Out-of-Distribution Detection using Deep Generative Models](https://proceedings.neurips.cc/paper/2021/hash/7d3e28d14440d6c07f73b7557e3d9602-Abstract.html)
 
 #### With exposure (Dirichlet Distribution and Evidential Perspective):
-- [[NeurIPS2018] Predictive Uncertainty Estimation via Prior Networks](https://proceedings.neurips.cc/paper/2018/hash/3ea2db50e62ceefceaf70a9d9a56a6f4-Abstract.html)
+- [[NeurIPS2018] Predictive Uncertainty Estimation via Prior Networks (A Malinin, M Gales)](https://proceedings.neurips.cc/paper/2018/hash/3ea2db50e62ceefceaf70a9d9a56a6f4-Abstract.html)
   - [[video](https://www.youtube.com/watch?v=uuXFDGvNKjs)]
   ![image](https://user-images.githubusercontent.com/26398708/144079754-2ac68535-70b4-4f2f-afb1-0e40df1e1fc9.png)
+- [[NeurIPS2019] Reverse KL-Divergence Training of Prior Networks: Improved Uncertainty and Adversarial Robustness (A Malinin, M Gales)](https://proceedings.neurips.cc/paper/2019/hash/7dd2ae7db7d18ee7c9425e38df1af5e2-Abstract.html)  
 - [[NeurIPS2020] Towards Maximizing the Representation Gap between In-Domain & Out-of-Distribution Examples](https://proceedings.neurips.cc/paper/2020/hash/68d3743587f71fbaa5062152985aff40-Abstract.html)
 - [[NeurIPS2020] OOD-MAML: Meta-Learning for Few-Shot Out-of-Distribution Detection and Classification](https://proceedings.neurips.cc/paper/2020/hash/28e209b61a52482a0ae1cb9f5959c792-Abstract.html)
 
