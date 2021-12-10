@@ -54,6 +54,10 @@ Estimation using Deep Ensembles](https://proceedings.neurips.cc/paper/2017/file/
 - [[NeurIPS2021] Reliable and Trustworthy Machine Learning for Health Using Dataset Shift Detection](https://openreview.net/forum?id=hNMOSUxE8o6)
 
 ## Out-of-distribution Detection: 
+### Type of shift:
+ - [[NeurIPS2021]An Information-theoretic Approach to Distribution Shifts](https://proceedings.neurips.cc/paper/2021/hash/93661c10ed346f9692f4d512319799b3-Abstract.html)
+    - distribution shift = Covariate shift + Concept shift
+
 ### Emperical and theoretical:
  - [[NeurIPS2020] Why Normalizing Flows Fail to Detect Out-of-Distribution Data](https://proceedings.neurips.cc/paper/2020/hash/ecb9fe2fbb99c31f567e9823e884dbec-Abstract.html)
  - [[NeurIPS2020] On the Value of Out-of-Distribution Testing: An Example of Goodhart's Law](https://proceedings.neurips.cc/paper/2020/hash/045117b0e0a11a242b9765e79cbf113f-Abstract.html)
