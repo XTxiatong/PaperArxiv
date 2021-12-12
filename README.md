@@ -17,6 +17,7 @@ In this Arxiv, latest literature from NIPS, ICML, ICLR, etc will be covered (on-
 - [[NeurIPS2019] Can you trust your model's uncertainty? Evaluating predictive uncertainty under dataset shift](https://proceedings.neurips.cc/paper/2019/hash/8558cb408c1d76621371888657d2eb1d-Abstract.html)
 - [[ICLR2019] Benchmarking neural network robustness to common corruptions and perturbations](https://openreview.net/forum?id=HJz6tiCqYm)
 - [[NeurIPS2021] Benchmarking Bayesian Deep Learning on Diabetic Retinopathy Detection Tasks](https://openreview.net/forum?id=jyd4Lyjr2iB)
+- [[NeurIPS2021]Reliable and Trustworthy Machine Learning for Health Using Dataset Shift Detection](https://proceedings.neurips.cc/paper/2021/hash/17e23e50bedc63b4095e3d8204ce063b-Abstract.html)
 
 ## Uncertainty Qualificatoin:
 - [[ICML2016] Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning (MCDropout)](http://proceedings.mlr.press/v48/gal16.html)
