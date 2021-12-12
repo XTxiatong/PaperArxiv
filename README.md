@@ -53,6 +53,11 @@ hyper-parameter.)](https://proceedings.neurips.cc/paper/2020/hash/5ca359ab1e9e3b
 - [[NeurIPS2019] A simple baseline for bayesian uncertainty in deep learning (SWAG)](https://proceedings.neurips.cc/paper/2019/file/118921efba23fc329e6560b27861f0c2-Paper.pdf)
 - [[NeurIPS2021] On the Importance of Gradients for Detecting Distributional Shifts in the Wild (GradNorm)](https://proceedings.neurips.cc/paper/2021/hash/0607f4c705595b911a4f3e7a127b44e0-Abstract.html)
 
+### Distance methid:
+- [[NeurIPS2018] A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks (Mahalanobis Distance)](https://proceedings.neurips.cc/paper/2018/hash/abdeb6f575ac5c6676b747bca8d09cc2-Abstract.html)
+-[[ICML2020]Uncertainty Estimation Using a Single Deep Deterministic Neural Network](http://proceedings.mlr.press/v119/van-amersfoort20a.html)
+
+
 ## Truthyworthy AI and application:
 - [[NeurIPS2021] Reliable and Trustworthy Machine Learning for Health Using Dataset Shift Detection](https://openreview.net/forum?id=hNMOSUxE8o6)
 
@@ -116,6 +121,6 @@ Learning Causal Semantic Representation for Out-of-Distribution Prediction](http
 
 ## Without re-training methods:
 - [[ICLR2018] Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks (ODIN)](https://openreview.net/forum?id=H1VGkIxRZ)
-- [[NeurIPS2018] A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks (Mahalanobis)](https://proceedings.neurips.cc/paper/2018/hash/abdeb6f575ac5c6676b747bca8d09cc2-Abstract.html)
+- [[NeurIPS2018] A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks (Mahalanobis Distance)](https://proceedings.neurips.cc/paper/2018/hash/abdeb6f575ac5c6676b747bca8d09cc2-Abstract.html)
 - [[ICML2020] Detecting out-of-distribution examples with gram matrices (Gram)](http://proceedings.mlr.press/v119/sastry20a/sastry20a.pdf)
 - [[NeurIPS202] Energy-based Out-of-distribution Detection (Energy score)](https://proceedings.neurips.cc/paper/2020/hash/f5496252609c43eb8a3d147ab9b9c006-Abstract.html)
