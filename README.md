@@ -55,7 +55,7 @@ hyper-parameter.)](https://proceedings.neurips.cc/paper/2020/hash/5ca359ab1e9e3b
 
 ### Distance methid:
 - [[NeurIPS2018] A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks (Mahalanobis Distance)](https://proceedings.neurips.cc/paper/2018/hash/abdeb6f575ac5c6676b747bca8d09cc2-Abstract.html)
--[[ICML2020]Uncertainty Estimation Using a Single Deep Deterministic Neural Network](http://proceedings.mlr.press/v119/van-amersfoort20a.html)
+- [[ICML2020]Uncertainty Estimation Using a Single Deep Deterministic Neural Network](http://proceedings.mlr.press/v119/van-amersfoort20a.html)
 
 
 ## Truthyworthy AI and application:
