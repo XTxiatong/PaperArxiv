@@ -17,4 +17,4 @@ NIPS2020 (2021 with graph based) paper overcame those limitations:
 
 ![image](https://user-images.githubusercontent.com/26398708/144252840-c937d419-df0a-4005-b378-ff9f7c07fb38.png)
 
-
+Q: why bate[i] is Pseudo?
