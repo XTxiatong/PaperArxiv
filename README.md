@@ -13,6 +13,7 @@ In this Arxiv, latest literature from NIPS, ICML, ICLR, etc will be covered (on-
 - [[NeurIPS2020] Tutorial: (Track2) Practical Uncertainty Estimation and Out-of-Distribution Robustness in Deep Learning](https://nips.cc/virtual/2020/public/tutorial_0f190e6e164eafe66f011073b4486975.html)
 - [[NeurIPS2021] Workshop: Bayesian Deep Learning](http://bayesiandeeplearning.org/)
 - [[NeurPS2021] Workshop: Distribution shifts: connecting methods and applications (DistShift)](https://nips.cc/virtual/2021/workshop/21859)
+- [I Can’t Believe It’s Not Better! (ICBINB) Workshop](https://i-cant-believe-its-not-better.github.io/)
 
 ## Dataset and Benchmarking:
 - [[NeurIPS2019] Can you trust your model's uncertainty? Evaluating predictive uncertainty under dataset shift](https://proceedings.neurips.cc/paper/2019/hash/8558cb408c1d76621371888657d2eb1d-Abstract.html)
