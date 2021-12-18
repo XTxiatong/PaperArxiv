@@ -22,6 +22,7 @@ In this Arxiv, latest literature from NIPS, ICML, ICLR, etc will be covered (on-
 - [[NeurIPS2021] Benchmarking Bayesian Deep Learning on Diabetic Retinopathy Detection Tasks](https://openreview.net/forum?id=jyd4Lyjr2iB)
 - [[NeurIPS2021]Reliable and Trustworthy Machine Learning for Health Using Dataset Shift Detection](https://proceedings.neurips.cc/paper/2021/hash/17e23e50bedc63b4095e3d8204ce063b-Abstract.html)
  - [[ICML2021]Evaluating Robustness of Predictive Uncertainty Estimation: Are Dirichlet-based Models Reliable?](http://proceedings.mlr.press/v139/kopetzki21a/kopetzki21a.pdf)
+   - Openreview from [ICLR](https://openreview.net/forum?id=uRKqXoN-Ic9) 
  - [[IJCAI2019]Statistical Guarantees for the Robustness of Bayesian Neural Networks (Robustness measurement)](https://www.ijcai.org/proceedings/2019/0789.pdf)
 
 
