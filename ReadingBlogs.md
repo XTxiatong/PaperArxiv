@@ -17,4 +17,8 @@ NIPS2020 (2021 with graph based) paper overcame those limitations:
 
 ![image](https://user-images.githubusercontent.com/26398708/144252840-c937d419-df0a-4005-b378-ff9f7c07fb38.png)
 
-Q: why bate[i] is Pseudo?
+Research questions:
+1. To what degree is the estimated uncertainty calibrated? (ECE)
+2. How to transfer the Pseudo-Counts into human-interpretable confidence score?
+3. How to determine the threhold to distingish the incorrect and OOD samples?
+
