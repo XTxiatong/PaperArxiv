@@ -36,7 +36,7 @@ In this Arxiv, latest literature from NIPS, ICML, ICLR, etc will be covered (on-
 - [[NeurIPS2020] Simple and Principled Uncertainty Estimation with Deterministic Deep Learning via Distance Awareness](https://proceedings.neurips.cc/paper/2020/hash/543e83748234f7cbab21aa0ade66565f-Abstract.html)
 - [[NeurIPS2020] Liberty or Depth: Deep Bayesian Neural Nets Do Not Need Complex Weight Posterior Approximations](https://proceedings.neurips.cc/paper/2020/hash/2dfe1946b3003933b7f8ddd71f24dbb1-Abstract.html)
 - [[NeurIPS2020] Posterior Re-calibration for Imbalanced Datasets](https://proceedings.neurips.cc/paper/2020/hash/5ca359ab1e9e3b9c478459944a2d9ca5-Abstract.html)
-
+- [[ICLR2020] Your classifier is secretly an energy based model and you should treat it like one](https://openreview.net/forum?id=Hkxzx0NtDB&utm_campaign=piqcy&utm_medium=email&utm_source=Revue%20newsletter)
 ### Confidence (Representation learning-based):
 - [[NeurIPS2018] To Trust Or Not To Trust A Classifier (Trust Score)](https://openreview.net/forum?id=HkZFuPbubr)
 - [[ICLR2018] Training Confidence-calibrated Classifiers for Detecting Out-of-Distribution Samples (uniform distribution)](https://openreview.net/forum?id=ryiAv2xAZ)
