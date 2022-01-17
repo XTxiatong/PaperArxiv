@@ -9,6 +9,11 @@ Assume that what we obatin from a nueral network is not the categorical probabil
 
 How Dirichlet looks like:
 ![image](https://user-images.githubusercontent.com/26398708/144232674-8744daa1-7ca4-47f8-984a-8817c772fc89.png)
+Advantages:
+1. Keep the model size. No extra parameters.
+2. One pass during inference.
+3. Distingish the source of uncertainty. 
+
 
 Three strong but non-realistic assumptions:
 1. An arbitary target prior *D(1)*
