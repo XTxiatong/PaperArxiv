@@ -3,7 +3,9 @@
 Instead of estimiating the distribition on weights, i.e., Beyasian learning, evidential deep learning is to find the distribution over predictors. \
 Assume that what we obatin from a nueral network is not the categorical probability *P* usually presented by softmax probility vector, but a distribution *u* over *P*. \
 %Note: If the prior of the distribution is Dirichlet, then the posterior is still Dirichlet because Mulitnomial distribution is conjugated to that. \
-%![image](https://user-images.githubusercontent.com/26398708/149747349-b0a5cac6-2452-4b8c-a9d2-24b064ed7c97.png)
+% ![image](https://user-images.githubusercontent.com/26398708/149747349-b0a5cac6-2452-4b8c-a9d2-24b064ed7c97.png)
+#  vvv
+<!--ddd--> d
 
 
 How Dirichlet looks like:
