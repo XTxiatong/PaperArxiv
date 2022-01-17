@@ -1,8 +1,11 @@
 ## Evidential Network/ PriorNetwork/ Posteroir Network
 
-Instead of estimiating the distribition on weights, i.e., Beyasian learsning, evidential deep learning is to find the distribution over predictors. \
-Assume that what we obatin from a nueral network is not the categorical probability *P*, but a distribution *u* over *P*. \
-Note: If the prior of the distribution is Dirichlet, then the posterior is still Dirichlet because Mulitnomial is conjugated to that. \
+Instead of estimiating the distribition on weights, i.e., Beyasian learning, evidential deep learning is to find the distribution over predictors. \
+Assume that what we obatin from a nueral network is not the categorical probability *P* usually presented by softmax probility vector, but a distribution *u* over *P*. \
+Note: If the prior of the distribution is Dirichlet, then the posterior is still Dirichlet because Mulitnomial distribution is conjugated to that. \
+![image](https://user-images.githubusercontent.com/26398708/149747101-3f325e14-747f-40df-a251-2c071fc70e04.png)
+
+How Dirichlet looks like:
 ![image](https://user-images.githubusercontent.com/26398708/144232674-8744daa1-7ca4-47f8-984a-8817c772fc89.png)
 
 Three strong but non-realistic assumptions:
