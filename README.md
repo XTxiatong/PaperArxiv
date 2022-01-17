@@ -71,7 +71,7 @@ hyper-parameter.)](https://proceedings.neurips.cc/paper/2020/hash/5ca359ab1e9e3b
 
 ## Truthyworthy AI and application:
 - [[NeurIPS2021] Reliable and Trustworthy Machine Learning for Health Using Dataset Shift Detection](https://openreview.net/forum?id=hNMOSUxE8o6)
-- [[Google 2021] Does Your Dermatology Classifier Know What It Doesn't Know? Detecting the Long-Tail of Unseen Conditions] (https://arxiv.org/pdf/2104.03829.pdf)
+- [[Google 2021] Does Your Dermatology Classifier Know What It Doesn't Know? Detecting the Long-Tail of Unseen Conditions](https://arxiv.org/pdf/2104.03829.pdf)
 
 ## Out-of-distribution Detection: 
 ### Type of shift:
