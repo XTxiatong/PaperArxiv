@@ -82,7 +82,6 @@ hyper-parameter.)](https://proceedings.neurips.cc/paper/2020/hash/5ca359ab1e9e3b
  - [[NeurIPS2020] On the Value of Out-of-Distribution Testing: An Example of Goodhart's Law](https://proceedings.neurips.cc/paper/2020/hash/045117b0e0a11a242b9765e79cbf113f-Abstract.html)
  - [[NeurIPS2021] Exploring the Limits of Out-of-Distribution Detection](https://proceedings.neurips.cc/paper/2021/hash/3941c4358616274ac2436eacf67fae05-Abstract.html)
  - [[NeurIPS2021] A Winning Hand: Compressing Deep Networks Can Improve Out-of-Distribution Robustness](https://proceedings.neurips.cc/paper/2021/hash/0607f4c705595b911a4f3e7a127b44e0-Abstract.html)
- - [[NeurIPS2021] Exploring the Limits of Out-of-Distribution Detection](https://proceedings.neurips.cc/paper/2021/hash/3941c4358616274ac2436eacf67fae05-Abstract.html)
 
  
 ### OOD detection:
