@@ -18,13 +18,13 @@ Advantages:
 3. Distingish the source of uncertainty. 
 
 
-Three strong but non-realistic assumptions:
+<!--Three strong but non-realistic assumptions of PriorNet:
 1. An arbitary target prior *D(1)*
 2. OOD exposure during training
 3. Differential entropy can be nagetive (no sense)
 4. No bound for alpha. 
 
-NIPS2020 (2021 with graph based) paper overcame those limitations: 
+NIPS2020 (2021 with graph based) paper overcame those limitations: -->
 
 *Posterior Network: Uncertainty Estimation without OOD Samples via Density-Based Pseudo-Counts* 
 
