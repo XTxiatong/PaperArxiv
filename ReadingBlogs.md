@@ -1,6 +1,8 @@
 
 ![image](https://user-images.githubusercontent.com/26398708/149753171-677305c9-a5cf-44c7-ac10-32c2b43bfe58.png)
 
+![image](https://user-images.githubusercontent.com/26398708/149754076-dc2d4172-ed83-43b6-8ef1-afa06edc8c71.png)
+
 ## Evidential Network/ PriorNetwork/ Posteroir Network
 
 Instead of estimiating the distribition on weights, i.e., Beyasian learning, evidential deep learning is to find the distribution over predictors. \
