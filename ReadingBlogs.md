@@ -1,6 +1,7 @@
-
+## NeurIPS Overview
 ![image](https://user-images.githubusercontent.com/26398708/149753171-677305c9-a5cf-44c7-ac10-32c2b43bfe58.png)
 
+## Paper connections
 ![image](https://user-images.githubusercontent.com/26398708/149754076-dc2d4172-ed83-43b6-8ef1-afa06edc8c71.png)
 
 ## Evidential Network/ PriorNetwork/ Posteroir Network
