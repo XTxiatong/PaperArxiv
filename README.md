@@ -122,7 +122,6 @@ Learning Causal Semantic Representation for Out-of-Distribution Prediction](http
 - [[NeurIPS2020] OOD-MAML: Meta-Learning for Few-Shot Out-of-Distribution Detection and Classification](https://proceedings.neurips.cc/paper/2020/hash/28e209b61a52482a0ae1cb9f5959c792-Abstract.html)
 
 #### OOD generalization:
-- [[NeurIPS2021] On the Out-of-distribution Generalization of Probabilistic Image Modelling](https://proceedings.neurips.cc/paper/2021/hash/1f88c7c5d7d94ae08bd752aa3d82108b-Abstract.html)
 - [[NeurIPS2021] Characterizing Generalization under Out-Of-Distribution Shifts in Deep Metric Learning](https://proceedings.neurips.cc/paper/2021/hash/d1f255a373a3cef72e03aa9d980c7eca-Abstract.html)
 - [[NeurIPS2021] Towards a Theoretical Framework of Out-of-Distribution Generalization](https://proceedings.neurips.cc/paper/2021/hash/c5c1cb0bebd56ae38817b251ad72bedb-Abstract.html)
 - [[NeurIPS2021] On the Out-of-distribution Generalization of Probabilistic Image Modelling (Cam&Huawei)](https://proceedings.neurips.cc/paper/2021/hash/1f88c7c5d7d94ae08bd752aa3d82108b-Abstract.html)
