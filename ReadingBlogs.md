@@ -1,5 +1,5 @@
-## NeurIPS Overview
-![image](https://user-images.githubusercontent.com/26398708/149753171-677305c9-a5cf-44c7-ac10-32c2b43bfe58.png)
+<!--Note: ## NeurIPS Overview
+![image](https://user-images.githubusercontent.com/26398708/149753171-677305c9-a5cf-44c7-ac10-32c2b43bfe58.png) -->
 
 ## Paper connections
 ![image](https://user-images.githubusercontent.com/26398708/149754970-7cf046c7-3712-45de-8ec5-d18ffc2e5571.png)
