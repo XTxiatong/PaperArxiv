@@ -2,7 +2,10 @@
 ![image](https://user-images.githubusercontent.com/26398708/149753171-677305c9-a5cf-44c7-ac10-32c2b43bfe58.png) -->
 
 ## Paper connections
-![image](https://user-images.githubusercontent.com/26398708/149754970-7cf046c7-3712-45de-8ec5-d18ffc2e5571.png)
+<!--Note![image](https://user-images.githubusercontent.com/26398708/149754970-7cf046c7-3712-45de-8ec5-d18ffc2e5571.png)-->
+![image](https://user-images.githubusercontent.com/26398708/151996312-75580eb6-5440-4281-9372-587ad2879374.png)
+![image](https://user-images.githubusercontent.com/26398708/151996184-33e9dba3-f477-4714-aba6-1d5ae0eccb32.png)
+
 
 ## Evidential Network/ PriorNetwork/ Posteroir Network
 
@@ -32,6 +35,8 @@ NIPS2020 (2021 with graph based) paper overcame those limitations: -->
 *Posterior Network: Uncertainty Estimation without OOD Samples via Density-Based Pseudo-Counts* 
 
 ![image](https://user-images.githubusercontent.com/26398708/144252840-c937d419-df0a-4005-b378-ff9f7c07fb38.png)
+
+![image](https://user-images.githubusercontent.com/26398708/151996587-7066e901-bbb4-499a-afcb-7069e7c2732b.png)
 
 Research questions:
 1. To what degree is the estimated uncertainty calibrated? (ECE)
