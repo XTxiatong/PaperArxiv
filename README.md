@@ -28,7 +28,7 @@ In this Arxiv, latest literature from NIPS, ICML, ICLR, etc will be covered (on-
  - [[IJCAI2019]Statistical Guarantees for the Robustness of Bayesian Neural Networks (Robustness measurement)](https://www.ijcai.org/proceedings/2019/0789.pdf)
 
 
-## Uncertainty Qualificatoin:
+## Uncertainty Quantificatoin:
 - [[ICML2016] Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning (MCDropout)](http://proceedings.mlr.press/v48/gal16.html)
 - [[NeurIPS2019] A simple baseline for bayesian uncertainty in deep learning (SWAG)](https://proceedings.neurips.cc/paper/2019/file/118921efba23fc329e6560b27861f0c2-Paper.pdf)
   - [[Video and codes](https://www.youtube.com/watch?v=5WOj_ZZJ2wM)]
