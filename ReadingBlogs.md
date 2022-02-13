@@ -1,3 +1,7 @@
+## Why Bayesian Neural Networks?
+Quantifying the uncertainty from data and model.
+
+
 <!--Note: ## NeurIPS Overview
 ![image](https://user-images.githubusercontent.com/26398708/149753171-677305c9-a5cf-44c7-ac10-32c2b43bfe58.png) -->
 
