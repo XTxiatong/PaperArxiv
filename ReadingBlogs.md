@@ -1,5 +1,6 @@
 ## Why Bayesian Neural Networks?
 Quantifying the uncertainty from data and model.
+A comparison between standard NN and Bayesian NN can be found [here](https://towardsdatascience.com/why-you-should-use-bayesian-neural-network-aaf76732c150).
 
 
 <!--Note: ## NeurIPS Overview
