@@ -71,6 +71,10 @@ hyper-parameter.)](https://proceedings.neurips.cc/paper/2020/hash/5ca359ab1e9e3b
 - [[NeurIPS2018] A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks (Mahalanobis Distance)](https://proceedings.neurips.cc/paper/2018/hash/abdeb6f575ac5c6676b747bca8d09cc2-Abstract.html)
 - [[ICML2020]Uncertainty Estimation Using a Single Deep Deterministic Neural Network](http://proceedings.mlr.press/v119/van-amersfoort20a.html)
 
+## Test augmentation
+- [[UAI2020] Greedy Policy Search: A Simple Baseline for Learnable Test-Time Augmentation](https://arxiv.org/pdf/2002.09103.pdf)
+- [[MIDL2021] Test-Time Mixup Augmentation for Uncertainty Estimation in Skin Lesion Diagnosis](https://openreview.net/forum?id=aGfL5C9wRx_)
+- [[ICML2021]Evaluating Robustness of Predictive Uncertainty Estimation: Are Dirichlet-based Models Reliable?](http://proceedings.mlr.press/v139/kopetzki21a/kopetzki21a.pdf)
 
 ## Truthyworthy AI and application:
 - [[NeurIPS2021] Reliable and Trustworthy Machine Learning for Health Using Dataset Shift Detection](https://openreview.net/forum?id=hNMOSUxE8o6)
