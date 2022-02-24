@@ -91,7 +91,10 @@ hyper-parameter.)](https://proceedings.neurips.cc/paper/2020/hash/5ca359ab1e9e3b
  - [[NeurIPS2021] Exploring the Limits of Out-of-Distribution Detection](https://proceedings.neurips.cc/paper/2021/hash/3941c4358616274ac2436eacf67fae05-Abstract.html)
  - [[NeurIPS2021] A Winning Hand: Compressing Deep Networks Can Improve Out-of-Distribution Robustness](https://proceedings.neurips.cc/paper/2021/hash/0607f4c705595b911a4f3e7a127b44e0-Abstract.html)
 
- 
+### Uncertainty estimation for sequence-to-sequence model:
+-[[ICML2020] Frequentist Uncertainty in Recurrent Neural Networks via Blockwise Influence Functions](http://proceedings.mlr.press/v119/alaa20b/alaa20b.pdf)
+
+
 ### OOD detection:
 #### Without exposure:
 - [[ICIR2017] A Baseline for Detecting Misclassified and Out-of-Distribution Examples in Neural Networks (Softmax)](https://openreview.net/forum?id=Hkg4TI9xl)
