@@ -117,7 +117,8 @@ Learning Causal Semantic Representation for Out-of-Distribution Prediction](http
  [[Codes](https://github.com/sharpenb/Posterior-Network)]
  - [[ICML2021]Evaluating Robustness of Predictive Uncertainty Estimation: Are Dirichlet-based Models Reliable?](http://proceedings.mlr.press/v139/kopetzki21a/kopetzki21a.pdf)
  - [[ICLR2022] Natural Posterior Network: Deep Bayesian Predictive Uncertainty for Exponential Family Distributions](https://openreview.net/forum?id=tV3N0DWMxCg)
- 
+ - [[AAAI2021] Multidimensional Uncertainty-Aware Evidential Neural Networks](https://arxiv.org/pdf/2012.13676.pdf)
+ -[[ICASP2022] SEED: SOUND EVENT EARLY DETECTION VIA EVIDENTIAL UNCERTAINTY](https://arxiv.org/pdf/2202.02441.pdf)
 ##### Generative model:
 - [[NeurIPS2019] Likelihood Ratios for Out-of-Distribution Detection](https://proceedings.neurips.cc/paper/2019/hash/1e79596878b2320cac26dd792a6c51c9-Abstract.html)
 - [[ICLR2019] Do Deep Generative Models Know What They Don't Know?](https://openreview.net/forum?id=H1xwNhCcYm)
