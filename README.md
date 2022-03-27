@@ -92,7 +92,7 @@ hyper-parameter.)](https://proceedings.neurips.cc/paper/2020/hash/5ca359ab1e9e3b
  - [[NeurIPS2021] A Winning Hand: Compressing Deep Networks Can Improve Out-of-Distribution Robustness](https://proceedings.neurips.cc/paper/2021/hash/0607f4c705595b911a4f3e7a127b44e0-Abstract.html)
 
 ### Uncertainty estimation for sequence-to-sequence model:
--[[ICML2020] Frequentist Uncertainty in Recurrent Neural Networks via Blockwise Influence Functions](http://proceedings.mlr.press/v119/alaa20b/alaa20b.pdf)
+- [[ICML2020] Frequentist Uncertainty in Recurrent Neural Networks via Blockwise Influence Functions](http://proceedings.mlr.press/v119/alaa20b/alaa20b.pdf)
 
 
 ### OOD detection:
