@@ -1,4 +1,4 @@
-# Predictive Uncertainty
+# Awesome Uncertainty Quantification
 Estimating the uncertainty of deep learning models has gained exponential interest recent years, mainly due to the safty concerns for real applications. 
 In this Arxiv, latest literature from NIPS, ICML, ICLR, etc will be covered (on-updating). some papers may be included multiple times if they cover across topics.
 
