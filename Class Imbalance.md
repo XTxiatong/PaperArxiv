@@ -23,7 +23,7 @@
   - How to determine the best model? class-wise acc on validation set?
   ### cost-sensitive
    -[Trans 2018] [Predicting Hospital Readmission via Cost-Sensitive Deep Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8338085&tag=1)
-   -a cost-matrix $C_n,k$ (sample n to class k) is needed and used in the loss function. 
+   -a cost-matrix $C_{n,k}$ (sample n to class k) is needed and used in the loss function. 
   
   ### threshold moving 
 
