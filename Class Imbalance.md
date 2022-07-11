@@ -27,3 +27,10 @@
   ### threshold moving 
    - [Neural Netw 2018] [A systematic study of the class imbalance problem in convolutional neural] networks(https://www.sciencedirect.com/science/article/pii/S0893608018302107?via%3Dihub)
 - Threhold can be set according the prior class probability. But it is more useful when combined with ROS.
+
+## Hybrid Methods
+
+
+![1657549431498](https://user-images.githubusercontent.com/26398708/178286954-1aa4dda9-220f-4d25-80d5-362403b733ff.png)
+
+   
