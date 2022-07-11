@@ -12,8 +12,11 @@
    - [ICML 2017] Random up/over-sampling RUS, ROS [Experimental perspectives on learning from imbalanced data](https://dl.acm.org/doi/abs/10.1145/1273496.1273614)
    - [IEEE 2016] RUS via image augmatation, two-phase training [paper](https://www.diva-portal.org/smash/get/diva2:811111/FULLTEXT01.pdf)
    - [Arkiv 2015] ROS [The impact of imbalanced training data for convolutional neural networks](https://www.diva-portal.org/smash/get/diva2:811111/FULLTEXT01.pdf)
-      -- The experiments show that applying ROS to the level od class balance canbe effective in addressing slight class imlance.
+      -The experiments show that applying ROS to the level od class balance canbe effective in addressing slight class imlance.
    - [IEEE MIPR 2018] Dynamic sampling, [. Dynamic sampling in convolutional neural networks for imbalanced data classifcation](https://ieeexplore.ieee.org/document/8396983)
+   #### the use of RUScan eliminate class imbalance during traning, but it may be not not effective with the relatively big but extremely imbalanced data. 
+
+
 ## Algorithm-level Methods
 
 - [ICCV 2017] [Focal Loss for Dense Object Detection](https://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf)
