@@ -30,7 +30,4 @@
 
 ## Hybrid Methods
 
-
-![1657549431498](https://user-images.githubusercontent.com/26398708/178286954-1aa4dda9-220f-4d25-80d5-362403b733ff.png)
-
-   
+![1657549471018](https://user-images.githubusercontent.com/26398708/178287065-2a84dc8e-c937-42dd-9e86-04225850592e.png)
