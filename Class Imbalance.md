@@ -22,7 +22,8 @@
   - [ICCV 2017] [Focal Loss for Dense Object Detection](https://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf)
   - How to determine the best model? class-wise acc on validation set?
   ### cost-sensitive
-   --[Trans 2018] Predicting Hospital Readmission via Cost-Sensitive Deep Learning
+   -[Trans 2018] [Predicting Hospital Readmission via Cost-Sensitive Deep Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8338085&tag=1)
+   -a cost-matrix $C_n,k$ (sample n to class k) is needed and used in the loss function. 
   
   ### threshold moving 
 
