@@ -13,11 +13,16 @@
    - [IEEE 2016] RUS via image augmatation, two-phase training [paper](https://www.diva-portal.org/smash/get/diva2:811111/FULLTEXT01.pdf)
    - [Arkiv 2015] ROS [The impact of imbalanced training data for convolutional neural networks](https://www.diva-portal.org/smash/get/diva2:811111/FULLTEXT01.pdf)
       -The experiments show that applying ROS to the level od class balance canbe effective in addressing slight class imlance.
-   - [IEEE MIPR 2018] Dynamic sampling, [. Dynamic sampling in convolutional neural networks for imbalanced data classifcation](https://ieeexplore.ieee.org/document/8396983)
+   - [IEEE MIPR 2018] Dynamic sampling. [Dynamic sampling in convolutional neural networks for imbalanced data classifcation](https://ieeexplore.ieee.org/document/8396983)
    #### the use of RUScan eliminate class imbalance during traning, but it may be not not effective with the relatively big but extremely imbalanced data. 
 
 
 ## Algorithm-level Methods
-
-- [ICCV 2017] [Focal Loss for Dense Object Detection](https://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf)
+  ### new loss function
+  - [ICCV 2017] [Focal Loss for Dense Object Detection](https://openaccess.thecvf.com/content_ICCV_2017/papers/Lin_Focal_Loss_for_ICCV_2017_paper.pdf)
+  - How to determine the best model? class-wise acc on validation set?
+  ### cost-sensitive
+   --[Trans 2018] Predicting Hospital Readmission via Cost-Sensitive Deep Learning
+  
+  ### threshold moving 
 
