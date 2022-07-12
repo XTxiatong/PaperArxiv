@@ -31,3 +31,11 @@
 ## Hybrid Methods
 
 ![1657549471018](https://user-images.githubusercontent.com/26398708/178287065-2a84dc8e-c937-42dd-9e86-04225850592e.png)
+
+
+## Recent Papaers:
+- [AAAI 2022] [Uncertainty-aware Learning Against Label Noise on Imbalanced Datasets](https://www.aaai.org/AAAI22Papers/AAAI-5530.HuangY.pdf)
+- [AAAI 2022] [Improving Evidential Deep Learning via Multi-task Learning](https://www.aaai.org/AAAI22Papers/AAAI-2489.OhD.pdf)
+
+
+
