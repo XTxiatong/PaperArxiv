@@ -29,9 +29,9 @@
   ### threshold moving 
    - [Neural Netw 2018] [A systematic study of the class imbalance problem in convolutional neural networks](https://www.sciencedirect.com/science/article/pii/S0893608018302107?via%3Dihub)
   - Threhold can be set according the prior class probability. But it is more useful when combined with ROS.
-  ### Max Margin 
-    - [CVPR, 2019] [striking the rught balance with uncertainty](https://arxiv.org/pdf/1901.07590.pdf)
-    - [NeurIPS, 2020] [Posterior Re-calibration for Imbalanced Datasets](https://proceedings.neurips.cc/paper/2020/file/5ca359ab1e9e3b9c478459944a2d9ca5-Paper.pdf)
+   ### Max Margin 
+    - [CVPR, 2019] Bayesian Uncertainty [striking the rught balance with uncertainty](https://arxiv.org/pdf/1901.07590.pdf)
+    - [NeurIPS, 2020] Posterior [Posterior Re-calibration for Imbalanced Datasets](https://proceedings.neurips.cc/paper/2020/file/5ca359ab1e9e3b9c478459944a2d9ca5-Paper.pdf)
     
     
 ## Hybrid Methods
