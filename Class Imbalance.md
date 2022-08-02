@@ -43,5 +43,6 @@
 - [AAAI 2022] [Uncertainty-aware Learning Against Label Noise on Imbalanced Datasets](https://www.aaai.org/AAAI22Papers/AAAI-5530.HuangY.pdf)
 - [AAAI 2022] [Improving Evidential Deep Learning via Multi-task Learning](https://www.aaai.org/AAAI22Papers/AAAI-2489.OhD.pdf)
 - [AAAI 2022] [Addressing class imbalance in federated learning](https://ojs.aaai.org/index.php/AAAI/article/view/17219)
+- [AAAI 2020] [A Novel Model for Imbalanced Data Classification](https://ojs.aaai.org/index.php/AAAI/article/view/6145)
 
 
