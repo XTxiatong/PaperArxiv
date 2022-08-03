@@ -42,6 +42,7 @@ In this Arxiv, latest literature from NIPS, ICML, ICLR, etc will be covered (on-
 - [[NeurIPS2020] Posterior Re-calibration for Imbalanced Datasets](https://proceedings.neurips.cc/paper/2020/hash/5ca359ab1e9e3b9c478459944a2d9ca5-Abstract.html)
 - [[ICLR2020] Your classifier is secretly an energy based model and you should treat it like one](https://openreview.net/forum?id=Hkxzx0NtDB&utm_campaign=piqcy&utm_medium=email&utm_source=Revue%20newsletter)
 - [[ICASSP 2022] Uncertainty Estimation with a VAE-Classifier Hybrid Model](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9747520)
+- [[AAAI 2022] Transformer Uncertainty Estimation with Hierarchical Stochastic Attention](https://ojs.aaai.org/index.php/AAAI/article/view/21364) 
 
 
 ### Confidence (Representation learning-based):
