@@ -156,3 +156,8 @@ Learning Causal Semantic Representation for Out-of-Distribution Prediction](http
 - [[NeurIPS2018] A Simple Unified Framework for Detecting Out-of-Distribution Samples and Adversarial Attacks (Mahalanobis Distance)](https://proceedings.neurips.cc/paper/2018/hash/abdeb6f575ac5c6676b747bca8d09cc2-Abstract.html)
 - [[ICML2020] Detecting out-of-distribution examples with gram matrices (Gram)](http://proceedings.mlr.press/v119/sastry20a/sastry20a.pdf)
 - [[NeurIPS202] Energy-based Out-of-distribution Detection (Energy score)](https://proceedings.neurips.cc/paper/2020/hash/f5496252609c43eb8a3d147ab9b9c006-Abstract.html)
+
+
+## Uncertainty-aware Seqential Modelling (ODEs):
+- [[AAAI 2022] Graph Neural Controlled Differential Equations for Traffic Forecasting](https://www.aaai.org/AAAI22Papers/AAAI-6502.ChoiJ.pdf)
+- [[AAAI 2022] STDEN: Towards Physics-guided Neural Networks for Traffic Flow Prediction](https://www.aaai.org/AAAI22Papers/AAAI-211.JiJ.pdf)]
