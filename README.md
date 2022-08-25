@@ -19,7 +19,7 @@ In this Arxiv, latest literature from NIPS, ICML, ICLR, etc will be covered (on-
 - [I Can’t Believe It’s Not Better! (ICBINB) Workshop](https://i-cant-believe-its-not-better.github.io/)
 - [[A Survey on Evidential Deep Learning For Single-Pass Uncertainty Estimation](https://arxiv.org/pdf/2110.03051.pdf)]
 - [[npj Digital Medicine 2021] Second opinion needed: communicating uncertainty in medical machine learning](https://www.nature.com/articles/s41746-020-00367-3.pdf)
-- [[ICML2022] Workshop: Distribution-Free Uncertainty Quantification]](https://icml.cc/virtual/2022/workshop/13460)
+- [[ICML2022] Workshop: Distribution-Free Uncertainty Quantification](https://icml.cc/virtual/2022/workshop/13460)
 
 ## Dataset and Benchmarking:
 - [[NeurIPS2019] Can you trust your model's uncertainty? Evaluating predictive uncertainty under dataset shift](https://proceedings.neurips.cc/paper/2019/hash/8558cb408c1d76621371888657d2eb1d-Abstract.html)
@@ -44,6 +44,8 @@ In this Arxiv, latest literature from NIPS, ICML, ICLR, etc will be covered (on-
 - [[ICLR2020] Your classifier is secretly an energy based model and you should treat it like one](https://openreview.net/forum?id=Hkxzx0NtDB&utm_campaign=piqcy&utm_medium=email&utm_source=Revue%20newsletter)
 - [[ICASSP 2022] Uncertainty Estimation with a VAE-Classifier Hybrid Model](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9747520)
 - [[AAAI 2022] Transformer Uncertainty Estimation with Hierarchical Stochastic Attention](https://ojs.aaai.org/index.php/AAAI/article/view/21364) 
+- [[ICML2022] Transformer Neural Processes: Uncertainty-Aware Meta Learning Via Sequence Modeling](https://proceedings.mlr.press/v162/nguyen22b.html)
+- [[ICML2022] On the Practicality of Deterministic Epistemic Uncertainty](https://proceedings.mlr.press/v162/postels22a.html)
 
 
 ### Confidence (Representation learning-based):
