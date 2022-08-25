@@ -2,7 +2,7 @@
 Estimating the uncertainty of deep learning models has gained exponential interest recent years, mainly due to the safty concerns for real applications. 
 In this Arxiv, latest literature from NIPS, ICML, ICLR, etc will be covered (on-updating). some papers may be included multiple times if they cover across topics.
 
-## Survey:
+## Survey adn tutorials:
 - [[Information Fusion 2021] A review of uncertainty quantification in deep learning: Techniques, applications and challenges](https://www.sciencedirect.com/science/article/pii/S1566253521001081)
 ![image](https://user-images.githubusercontent.com/26398708/143864354-de4a2e38-fc8a-4095-9056-52f0e74ca710.png)
 - [[arXiv2020] A Survey of Uncertainty in Deep Neural Networks](https://arxiv.org/abs/2107.03342)
@@ -19,6 +19,7 @@ In this Arxiv, latest literature from NIPS, ICML, ICLR, etc will be covered (on-
 - [I Can’t Believe It’s Not Better! (ICBINB) Workshop](https://i-cant-believe-its-not-better.github.io/)
 - [[A Survey on Evidential Deep Learning For Single-Pass Uncertainty Estimation](https://arxiv.org/pdf/2110.03051.pdf)]
 - [[npj Digital Medicine 2021] Second opinion needed: communicating uncertainty in medical machine learning](https://www.nature.com/articles/s41746-020-00367-3.pdf)
+- [[ICML2022] Workshop: Distribution-Free Uncertainty Quantification]](https://icml.cc/virtual/2022/workshop/13460)
 
 ## Dataset and Benchmarking:
 - [[NeurIPS2019] Can you trust your model's uncertainty? Evaluating predictive uncertainty under dataset shift](https://proceedings.neurips.cc/paper/2019/hash/8558cb408c1d76621371888657d2eb1d-Abstract.html)
