@@ -1,6 +1,10 @@
 ## Deterministics
 - [ICML2022 Spotlight] [On the Practicality of Deterministic Epistemic Uncertainty](https://proceedings.mlr.press/v162/postels22a/postels22a.pdf)
-- 
+  - Performance of detecting correct/incorrect predictions
+![1661943131357](https://user-images.githubusercontent.com/26398708/187662495-f691e79a-e6dd-4c57-beba-cc2f3ae3025c.png)
+  - uncertainty with increasing data shift
+  ![1661943229224](https://user-images.githubusercontent.com/26398708/187662750-036eb3ca-b4db-424b-ae87-b6e6cfabba8a.png)
+
 
 
 ## Bayesian/Personalisation 
