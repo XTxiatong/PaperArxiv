@@ -13,6 +13,7 @@
 <img src="https://user-images.githubusercontent.com/26398708/186911075-2c1d2632-2fab-44f0-8709-3391a5e7d73e.png" width="500">
   - FegAvg is applied on Bayesian neural networks, but uncertainty is not well studied.
   ![1662123378506](https://user-images.githubusercontent.com/26398708/188150594-7d76df5f-f83e-4622-a61e-df130567ce40.png)
+  
   - Non-IID setting, each client owns 5/10 classes. 
 - [ICML2022][Federated Learning with Label Distribution Skew via Logits Calibration](https://proceedings.mlr.press/v162/zhang22p.html)
 - 
