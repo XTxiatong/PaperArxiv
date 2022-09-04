@@ -5,6 +5,8 @@
   - uncertainty with increasing data shift
   ![1661943229224](https://user-images.githubusercontent.com/26398708/187662750-036eb3ca-b4db-424b-ae87-b6e6cfabba8a.png)
 
+## Mix
+- [Approaches to Uncertainty Quantification in Federated Deep Learning](https://pdfl.iais.fraunhofer.de/preprints/PDFL_2.pdf)
 
 
 ## Bayesian/Personalisation 
