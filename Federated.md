@@ -21,8 +21,11 @@
 ## Ensembles
   - [NeurIPS2020][Ensemble Distillation for Robust Model Fusion in Federated Learning](https://proceedings.neurips.cc/paper/2020/file/18df51b97ccd68128e994804f3eccc87-Supplemental.pdf)
   - [UAI2022][Self-Distribution Distillation: Efficient Uncertainty Estimation](https://openreview.net/forum?id=rhNgEI8s5xc)
+  - [ICLR2021][FedBE: Making Bayesian Model Ensemble Applicable to Federated Learning](https://openreview.net/forum?id=dgtpE6gKjHn)
+
+## Prototype:
+ - [AAAI2022][Fedproto: Federated prototype learning across heterogeneous clients](https://arxiv.org/abs/2104.01893)
+ - 
 
 
-## Mix
-- [ICLR 2021][FEDBE: MAKING BAYESIAN MODEL ENSEMBLE APPLICABLE TO FEDERATED LEARNING](https://arxiv.org/pdf/2009.01974.pdf)
-- 
+
