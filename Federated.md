@@ -31,7 +31,7 @@
 
 
 ## Generativ model and federated learning:
-  - [AAAI2020] [Uncertainty-Aware Deep Classifiers Using Generative Models](file:///D:/Downloads/6015-Article%20Text-9240-1-10-20200513%20(3).pdf)
+  - [AAAI2020] [Uncertainty-Aware Deep Classifiers Using Generative Models](https://ojs.aaai.org/index.php/AAAI/article/view/6015)
 
 
 
