@@ -1,6 +1,7 @@
 ## Survey and benckmarks
 - [FedEval: A Benchmark System with a Comprehensive Evaluation Model for Federated Learning](https://arxiv.org/pdf/2011.09655.pdf)
 - [Neurocomputing 2021] [Federated learning on non-IID data: A survey](https://reader.elsevier.com/reader/sd/pii/S0925231221013254?token=632A399662BA41FDDAB98BB060BC5EE5F1EB11AC093370FABAE5F7A68B1E52D7634200192495EEB568133B75A224CC07&originRegion=eu-west-1&originCreation=20220922101316)
+- 
 
 
 ## Deterministics
@@ -46,3 +47,10 @@
 ## For health
   - [Nature Medicine 2021] [Federated learning for predicting clinical outcomes in patients with COVID-19](https://www.nature.com/articles/s41591-021-01506-3)
   -
+
+
+## Non-IID 
+  - [ICLR 2021] FedBN [FedBN: Federated Learning on Non-IID Features via Local Batch Normalization](https://openreview.net/forum?id=6YEQUn0QICG)
+  - [ICLR 2021] FedPD [An Agnostic Approach to Federated Learning with Class Imbalance](https://openreview.net/forum?id=Xo0lbDt975)
+  - [IEEE TRANSACTIONS ON SIGNAL PROCESSING 2021] [FedPD: A Federated Learning Framework With Adaptivity to Non-IID Data](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9556559)
+  - [NeurIPS 2021] [No Fear of Heterogeneity: Classifier Calibration for Federated Learning with Non-IID Data](https://proceedings.neurips.cc/paper/2021/hash/2f2b265625d76a6704b08093c652fd79-Abstract.html) 
