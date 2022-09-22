@@ -24,6 +24,7 @@
         <!--<img src="https://user-images.githubusercontent.com/26398708/188150594-7d76df5f-f83e-4622-a61e-df130567ce40.png" width="200">-->
   Non-IID setting, each client owns 5/10 classes. 
   ```
+  
 - [ICML2022][Federated Learning with Label Distribution Skew via Logits Calibration](https://proceedings.mlr.press/v162/zhang22p.html)
 - 
 
