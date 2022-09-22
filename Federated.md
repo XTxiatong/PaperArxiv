@@ -1,6 +1,6 @@
 ## Survey and benckmarks
 - [FedEval: A Benchmark System with a Comprehensive Evaluation Model for Federated Learning](https://arxiv.org/pdf/2011.09655.pdf)
-- 
+- [Neurocomputing 2021] [Federated learning on non-IID data: A survey](https://reader.elsevier.com/reader/sd/pii/S0925231221013254?token=632A399662BA41FDDAB98BB060BC5EE5F1EB11AC093370FABAE5F7A68B1E52D7634200192495EEB568133B75A224CC07&originRegion=eu-west-1&originCreation=20220922101316)
 
 
 ## Deterministics
