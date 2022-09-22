@@ -1,3 +1,8 @@
+## Survey and benckmarks
+- [FedEval: A Benchmark System with a Comprehensive Evaluation Model for Federated Learning](https://arxiv.org/pdf/2011.09655.pdf)
+- 
+
+
 ## Deterministics
 - [ICML2022 Spotlight] [On the Practicality of Deterministic Epistemic Uncertainty](https://proceedings.mlr.press/v162/postels22a/postels22a.pdf)
   - Performance of detecting correct/incorrect predictions
@@ -34,4 +39,6 @@
   - [AAAI2020] [Uncertainty-Aware Deep Classifiers Using Generative Models](https://ojs.aaai.org/index.php/AAAI/article/view/6015)
 
 
-
+## For health
+-[Nature Medicine 2021] [Federated learning for predicting clinical outcomes in patients with COVID-19](https://www.nature.com/articles/s41591-021-01506-3)
+-
