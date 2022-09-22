@@ -6,9 +6,9 @@
 ## Deterministics
 - [ICML2022 Spotlight] [On the Practicality of Deterministic Epistemic Uncertainty](https://proceedings.mlr.press/v162/postels22a/postels22a.pdf)
   - Performance of detecting correct/incorrect predictions
-![1661943131357](https://user-images.githubusercontent.com/26398708/187662495-f691e79a-e6dd-4c57-beba-cc2f3ae3025c.png)
+  <img src="https://user-images.githubusercontent.com/26398708/187662495-f691e79a-e6dd-4c57-beba-cc2f3ae3025c.png" width="500">
   - uncertainty with increasing data shift
-  ![1661943229224](https://user-images.githubusercontent.com/26398708/187662750-036eb3ca-b4db-424b-ae87-b6e6cfabba8a.png)
+ <img src="https://user-images.githubusercontent.com/26398708/187662750-036eb3ca-b4db-424b-ae87-b6e6cfabba8a.png" width="500">
 
 ## Mix
 - [Approaches to Uncertainty Quantification in Federated Deep Learning](https://pdfl.iais.fraunhofer.de/preprints/PDFL_2.pdf)
@@ -40,5 +40,5 @@
 
 
 ## For health
--[Nature Medicine 2021] [Federated learning for predicting clinical outcomes in patients with COVID-19](https://www.nature.com/articles/s41591-021-01506-3)
--
+  -[Nature Medicine 2021] [Federated learning for predicting clinical outcomes in patients with COVID-19](https://www.nature.com/articles/s41591-021-01506-3)
+  -
