@@ -18,7 +18,8 @@
 ## Bayesian/Personalisation 
 - [NeurIPS2020][citation 200+][Personalized federated learning with moreau envelopes](https://proceedings.neurips.cc/paper/2020/hash/f4f1f13c8289ac1b1ee0ff176b56fc60-Abstract.html)
 - [ICML2022] [Personalized Federated Learning via Variational Bayesian Inference](https://proceedings.mlr.press/v162/zhang22o/zhang22o.pdf)
-  -   FegAvg is applied on Bayesian neural networks, but uncertainty is not well studied. Non-IID setting, each client owns 5/10 classes. 
+  -   FegAvg is applied on Bayesian neural networks, but uncertainty is not well studied. 
+  -   Non-IID setting, each client owns 5/10 classes. 
         <!--<img src="https://user-images.githubusercontent.com/26398708/188150594-7d76df5f-f83e-4622-a61e-df130567ce40.png" width="200">-->
   
   
