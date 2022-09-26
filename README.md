@@ -46,6 +46,7 @@ In this Arxiv, latest literature from NIPS, ICML, ICLR, etc will be covered (on-
 - [[AAAI 2022] Transformer Uncertainty Estimation with Hierarchical Stochastic Attention](https://ojs.aaai.org/index.php/AAAI/article/view/21364) 
 - [[ICML2022] Transformer Neural Processes: Uncertainty-Aware Meta Learning Via Sequence Modeling](https://proceedings.mlr.press/v162/nguyen22b.html)
 - [[ICML2022] On the Practicality of Deterministic Epistemic Uncertainty](https://proceedings.mlr.press/v162/postels22a.html)
+- [[NeurIPS2022] Pitfalls of Epistemic Uncertainty Quantification through Loss Minimisation](https://arxiv.org/pdf/2203.06102.pdf)
 
 
 ### Confidence (Representation learning-based):
