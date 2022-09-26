@@ -151,8 +151,10 @@ Learning Causal Semantic Representation for Out-of-Distribution Prediction](http
 
 
 ## Non-parametric Gaussian Process:
- - [[NeurIPS2020]Simple and Principled Uncertainty Estimation with Deterministic Deep Learning via Distance Awareness](https://papers.nips.cc/paper/2020/file/543e83748234f7cbab21aa0ade66565f-Paper.pdf)
+ - [[NeurIPS 2020]Simple and Principled Uncertainty Estimation with Deterministic Deep Learning via Distance Awareness](https://papers.nips.cc/paper/2020/file/543e83748234f7cbab21aa0ade66565f-Paper.pdf)
 
+## Non-parametric:
+ - [NeurIPS 2022][NUQ: Nonparametric Uncertainty Quantification for Deterministic Neural Networks](https://arxiv.org/pdf/2202.03101.pdf)
 
 ## Without re-training methods:
 - [[ICLR2018] Enhancing The Reliability of Out-of-distribution Image Detection in Neural Networks (ODIN)](https://openreview.net/forum?id=H1VGkIxRZ)
