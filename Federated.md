@@ -36,7 +36,8 @@
 
 
 ## Imbalance
- - [AAAI ]
+ - [AAAI 2021] [Addressing class imbalance in federated learning](https://ojs.aaai.org/index.php/AAAI/article/view/17219)
+ - 
  - [ICML2022][Federated Learning with Label Distribution Skew via Logits Calibration](https://proceedings.mlr.press/v162/zhang22p.html)
   - this paper studied skew data distribution. A margin distritional loss is proposed to boost the performance of local model, further benefit the global model. 
   - 
