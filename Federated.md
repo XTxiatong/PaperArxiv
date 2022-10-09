@@ -60,7 +60,7 @@
 ## For health
   - [Nature Medicine 2021] [Federated learning for predicting clinical outcomes in patients with COVID-19](https://www.nature.com/articles/s41591-021-01506-3)
   - [FedCluster: A Federated Learning Framework for Cross-Device Private ECG Classification](https://arxiv.org/ftp/arxiv/papers/2208/2208.10993.pdf)
-  -
+  - [Application of federated learning techniques for arrhythmia classification using 12-lead ECG signals](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9797945&tag=1)
 
 
 ## Non-IID 
