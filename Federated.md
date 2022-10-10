@@ -6,6 +6,7 @@
 - [ICDE 2022][Federated Learning on Non-IID Data Silos: An Experimental Study](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9835537)
 - [NeurIPS 2022][FLamby: Datasets and Benchmarks for Cross-Silo Federated Learning in Realistic Settings](https://openreview.net/forum?id=GgM5DiAb6A2)
 - [NeurIPS 2022][pFL-Bench: A Comprehensive Benchmark for Personalized Federated Learning](https://openreview.net/pdf?id=2ptbv_JjYKA) [Alibaba FedScope](https://federatedscope.io/)
+- [ITNNLS 2022][Towards Personalized Federated Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9743558)
 
 ## Scholars 
   - [CMU Tian Li](https://scholar.google.com/citations?user=8JWoJrAAAAAJ&hl=en)
