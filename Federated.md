@@ -11,7 +11,9 @@
 ## Scholars 
   - [CMU Tian Li](https://scholar.google.com/citations?user=8JWoJrAAAAAJ&hl=en)
   
-  
+  - [Client drift] [SCAFFOLD: Stochastic Controlled Averaging for Federated Learning](https://openreview.net/forum?id=rguu45C8oC)
+
+
 ##  Uncentainty quanitifcation
 - [Approaches to Uncertainty Quantification in Federated Deep Learning](https://pdfl.iais.fraunhofer.de/preprints/PDFL_2.pdf)
 - [NeurIPS 2022][FedPop:  A Bayesian Approach for Personalised Federated Learning](https://arxiv.org/abs/2206.03611)
@@ -43,7 +45,9 @@
  - [ICML2022][Federated Learning with Label Distribution Skew via Logits Calibration](https://proceedings.mlr.press/v162/zhang22p.html)
   - this paper studied skew data distribution. A margin distritional loss is proposed to boost the performance of local model, further benefit the global model. 
   - 
-
+## Cross-device
+  - [ICLR 2021][MIME: Breaking the centralized barrier for cross-device federated learning](https://proceedings.neurips.cc/paper/2021/file/f0e6be4ce76ccfa73c5a540d992d0756-Paper.pdf)
+  - 
 ## Ensembles
   - [NeurIPS2020][Ensemble Distillation for Robust Model Fusion in Federated Learning](https://proceedings.neurips.cc/paper/2020/file/18df51b97ccd68128e994804f3eccc87-Supplemental.pdf)
   - [UAI2022][Self-Distribution Distillation: Efficient Uncertainty Estimation](https://openreview.net/forum?id=rhNgEI8s5xc)
