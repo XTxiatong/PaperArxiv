@@ -64,10 +64,11 @@
 
 ## For health
   - [Nature Medicine 2021] [Federated learning for predicting clinical outcomes in patients with COVID-19](https://www.nature.com/articles/s41591-021-01506-3)
-  - [FedCluster: A Federated Learning Framework for Cross-Device Private ECG Classification](https://arxiv.org/ftp/arxiv/papers/2208/2208.10993.pdf)
-  - [Application of federated learning techniques for arrhythmia classification using 12-lead ECG signals](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9797945&tag=1)
+  - [Infocom workshop 2021][FedCluster: A Federated Learning Framework for Cross-Device Private ECG Classification](https://arxiv.org/ftp/arxiv/papers/2208/2208.10993.pdf)
+  - [Arxiv 2022, FedAvg][Application of federated learning techniques for arrhythmia classification using 12-lead ECG signals](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9797945&tag=1)
+    - - [Cic 2020 winner][ECG abnormalities recognition using convolutional network with global skip connections and custom loss function] (https://ieeexplore.ieee.org/abstract/document/9344393)
   - [Personalized Federated Learning for ECG Classification Based on Feature Alignment](https://downloads.hindawi.com/journals/scn/2021/6217601.pdf)
-
+  
 
 ## Non-IID 
   - [ICLR 2021] FedBN [FedBN: Federated Learning on Non-IID Features via Local Batch Normalization](https://openreview.net/forum?id=6YEQUn0QICG)
