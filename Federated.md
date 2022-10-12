@@ -25,6 +25,10 @@
  <img src="https://user-images.githubusercontent.com/26398708/187662750-036eb3ca-b4db-424b-ae87-b6e6cfabba8a.png" width="400">
  
 ## Non IID
+  - [2018, the  primary study showing the negative impact of non-iid][Federated learning with non-iid data](https://arxiv.org/abs/1806.00582)
+  
+  ![image](https://user-images.githubusercontent.com/26398708/195367715-cbbcac0b-5790-437a-b23e-7b30ed31a1a1.png)
+
   - [ITSP 2021][FedPD: A federated learning framework with adaptivity to non-IID data](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78)
   - [ICLR 2021] FedBN [FedBN: Federated Learning on Non-IID Features via Local Batch Normalization](https://openreview.net/forum?id=6YEQUn0QICG)
   - [IEEE TRANSACTIONS ON SIGNAL PROCESSING 2021] [FedPD: A Federated Learning Framework With Adaptivity to Non-IID Data](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9556559)
