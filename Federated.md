@@ -13,8 +13,7 @@
 
 ## Scholars 
   - [CMU Tian Li](https://scholar.google.com/citations?user=8JWoJrAAAAAJ&hl=en)
-  
-  - [Client drift] [SCAFFOLD: Stochastic Controlled Averaging for Federated Learning](https://openreview.net/forum?id=rguu45C8oC)
+    - FedProx, 2028, 2020
 
 
 ##  Uncentainty quanitifcation
@@ -32,9 +31,10 @@
   
   ![image](https://user-images.githubusercontent.com/26398708/195367715-cbbcac0b-5790-437a-b23e-7b30ed31a1a1.png)
    When data is non-iid, local model is likely to be overfitte and far away from the averaged mode. This is call 'client-drift', which could slow down the global convergence.
-
   - [MLsys 2020] [FedProx: Federated Optimization in Heterogeneous Networks](https://proceedings.mlsys.org/paper/2020/hash/38af86134b65d0f10fe33d30dd76442e-Abstract.html)
      - A loss regulasition that restrict the local update to aviod 'client-drift'
+  - [ICLR 2020] [SCAFFOLD: Stochastic Controlled Averaging for Federated Learning](https://openreview.net/forum?id=rguu45C8oC)
+      - Anlysis client drift in detail
   - [ITSP 2021][FedPD: A federated learning framework with adaptivity to non-IID data](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78)
   - [ICLR 2021] FedBN [FedBN: Federated Learning on Non-IID Features via Local Batch Normalization](https://openreview.net/forum?id=6YEQUn0QICG)
   - [IEEE TRANSACTIONS ON SIGNAL PROCESSING 2021] [FedPD: A Federated Learning Framework With Adaptivity to Non-IID Data](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9556559)
