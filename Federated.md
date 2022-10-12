@@ -1,5 +1,6 @@
 
-### [Artificial Intelligence and Statistics 2017, Google, McMahan et al.][FedAvg: Communication-Efficient Learning of Deep Networks from Decentralized Data](http://proceedings.mlr.press/v54/mcmahan17a?ref=https://githubhelp.com)
+## Google
+- [Artificial Intelligence and Statistics 2017, McMahan et al.][FedAvg: Communication-Efficient Learning of Deep Networks from Decentralized Data](http://proceedings.mlr.press/v54/mcmahan17a?ref=https://githubhelp.com)
 
 ## Survey and benckmarks
 - [FedEval: A Benchmark System with a Comprehensive Evaluation Model for Federated Learning](https://arxiv.org/pdf/2011.09655.pdf)
