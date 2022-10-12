@@ -25,8 +25,11 @@
  <img src="https://user-images.githubusercontent.com/26398708/187662750-036eb3ca-b4db-424b-ae87-b6e6cfabba8a.png" width="400">
  
 ## Non IID
- - [ITSP 2021][FedPD: A federated learning framework with adaptivity to non-IID data](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78)
-
+  - [ITSP 2021][FedPD: A federated learning framework with adaptivity to non-IID data](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78)
+  - [ICLR 2021] FedBN [FedBN: Federated Learning on Non-IID Features via Local Batch Normalization](https://openreview.net/forum?id=6YEQUn0QICG)
+  - [IEEE TRANSACTIONS ON SIGNAL PROCESSING 2021] [FedPD: A Federated Learning Framework With Adaptivity to Non-IID Data](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9556559)
+  - [ICLR 2021] From FedPD to CLIME [An Agnostic Approach to Federated Learning with Class Imbalance](https://openreview.net/forum?id=Xo0lbDt975)
+  - [NeurIPS 2021] [No Fear of Heterogeneity: Classifier Calibration for Federated Learning with Non-IID Data](https://proceedings.neurips.cc/paper/2021/hash/2f2b265625d76a6704b08093c652fd79-Abstract.html) 
 
 ## Personalisation 
 - [ICML 2021][Ditto: Fair and Robust Federated Learning Through Personalization](https://proceedings.mlr.press/v139/li21h.html)
@@ -83,8 +86,6 @@ With the privacy constrict, it is also infeasible to require clients to upload d
   - [Personalized Federated Learning for ECG Classification Based on Feature Alignment](https://downloads.hindawi.com/journals/scn/2021/6217601.pdf)
   
 
-## Non-IID 
-  - [ICLR 2021] FedBN [FedBN: Federated Learning on Non-IID Features via Local Batch Normalization](https://openreview.net/forum?id=6YEQUn0QICG)
-  - [IEEE TRANSACTIONS ON SIGNAL PROCESSING 2021] [FedPD: A Federated Learning Framework With Adaptivity to Non-IID Data](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9556559)
-  - [ICLR 2021] From FedPD to CLIME [An Agnostic Approach to Federated Learning with Class Imbalance](https://openreview.net/forum?id=Xo0lbDt975)
-  - [NeurIPS 2021] [No Fear of Heterogeneity: Classifier Calibration for Federated Learning with Non-IID Data](https://proceedings.neurips.cc/paper/2021/hash/2f2b265625d76a6704b08093c652fd79-Abstract.html) 
+## Client selection
+ - [Towards understanding biased client selection in federated learning](https://proceedings.mlr.press/v151/jee-cho22a/jee-cho22a.pdf)
+
