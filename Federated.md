@@ -4,7 +4,6 @@
 ## Survey and benckmarks
 - [FedEval: A Benchmark System with a Comprehensive Evaluation Model for Federated Learning](https://arxiv.org/pdf/2011.09655.pdf)
 - [JMIR 2020][Reliability and Performance Assessment of Federated Learning on Clinical Benchmark Data](https://www.jmir.org/2020/10/e20891)
-- [Arxiv 2018][Federated Learning with Non-IID Data](https://arxiv.org/pdf/1806.00582.pdf)
 - [Neurocomputing 2021] [Federated learning on non-IID data: A survey](https://reader.elsevier.com/reader/sd/pii/S0925231221013254?token=632A399662BA41FDDAB98BB060BC5EE5F1EB11AC093370FABAE5F7A68B1E52D7634200192495EEB568133B75A224CC07&originRegion=eu-west-1&originCreation=20220922101316)
 - [ICDE 2022][Federated Learning on Non-IID Data Silos: An Experimental Study](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9835537)
 - [NeurIPS 2022][FLamby: Datasets and Benchmarks for Cross-Silo Federated Learning in Realistic Settings](https://openreview.net/forum?id=GgM5DiAb6A2)
