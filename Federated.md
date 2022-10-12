@@ -1,5 +1,5 @@
 
-[Artificial Intelligence and Statistics 2017, Google, McMahan et al.][FedAvg: Communication-Efficient Learning of Deep Networks from Decentralized Data](http://proceedings.mlr.press/v54/mcmahan17a?ref=https://githubhelp.com)
+### [Artificial Intelligence and Statistics 2017, Google, McMahan et al.][FedAvg: Communication-Efficient Learning of Deep Networks from Decentralized Data](http://proceedings.mlr.press/v54/mcmahan17a?ref=https://githubhelp.com)
 
 ## Survey and benckmarks
 - [FedEval: A Benchmark System with a Comprehensive Evaluation Model for Federated Learning](https://arxiv.org/pdf/2011.09655.pdf)
@@ -34,6 +34,7 @@
    When data is non-iid, local model is likely to be overfitte and far away from the averaged mode. This is call 'client-drift', which could slow down the global convergence.
 
   - [MLsys 2020] [FedProx: Federated Optimization in Heterogeneous Networks](https://proceedings.mlsys.org/paper/2020/hash/38af86134b65d0f10fe33d30dd76442e-Abstract.html)
+     - A loss regulasition that restrict the local update
   - [ITSP 2021][FedPD: A federated learning framework with adaptivity to non-IID data](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78)
   - [ICLR 2021] FedBN [FedBN: Federated Learning on Non-IID Features via Local Batch Normalization](https://openreview.net/forum?id=6YEQUn0QICG)
   - [IEEE TRANSACTIONS ON SIGNAL PROCESSING 2021] [FedPD: A Federated Learning Framework With Adaptivity to Non-IID Data](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9556559)
@@ -58,7 +59,7 @@
 With the privacy constrict, it is also infeasible to require clients to upload data dsitrbution. "
 
  - [AAAI 2021] [RatioLoss: Addressing class imbalance in federated learning](https://ojs.aaai.org/index.php/AAAI/article/view/17219)
-     - A global dataset is needed to monitor the loss
+     - A global dataset is needed to monitor the loss to precent 'client-drift'
  - [ICLR 2022] [CLIMB: An Agnostic Approach to Federated Learning with Class Imbalance](https://openreview.net/forum?id=Xo0lbDt975)
      - No global data
      - Cross silo setting
