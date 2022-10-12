@@ -19,6 +19,7 @@
 ## Scholars 
   - [CMU Tian Li](https://scholar.google.com/citations?user=8JWoJrAAAAAJ&hl=en)
     - FedProx, 2028, 2020
+    - Ditto, 2021
 
 
 ##  Uncentainty quanitifcation
