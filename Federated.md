@@ -24,7 +24,10 @@
   - uncertainty with increasing data shift
  <img src="https://user-images.githubusercontent.com/26398708/187662750-036eb3ca-b4db-424b-ae87-b6e6cfabba8a.png" width="400">
  
- 
+## Non IID
+ - [ITSP 2021][FedPD: A federated learning framework with adaptivity to non-IID data](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78)
+
+
 ## Personalisation 
 - [ICML 2021][Ditto: Fair and Robust Federated Learning Through Personalization](https://proceedings.mlr.press/v139/li21h.html)
 - [CoRR 2021][HypCluster: Three Approaches for Personalization with Applications to Federated Learning](https://arxiv.org/abs/2002.10619)(https://arxiv.org/pdf/2002.10619.pdf)
@@ -39,15 +42,22 @@
 
 
 ## Imbalance
- - [ITSP 2021][FedPD: A federated learning framework with adaptivity to non-IID data](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=78)
+"Due to the mismatch among local and global data distribution, general approches to class imbalace on the clients may be not effective.
+With the privacy constrict, it is also infeasible to require clients to upload data dsitrbution. "
+
  - [AAAI 2021] [RatioLoss: Addressing class imbalance in federated learning](https://ojs.aaai.org/index.php/AAAI/article/view/17219)
      - A global dataset is needed to monitor the loss
  - [ICLR 2022] [CLIMB: An Agnostic Approach to Federated Learning with Class Imbalance](https://openreview.net/forum?id=Xo0lbDt975)
      - No global data
      - Cross silo setting
  - [ICML2022][Federated Learning with Label Distribution Skew via Logits Calibration](https://proceedings.mlr.press/v162/zhang22p.html)
-  - this paper studied skew data distribution. A margin distritional loss is proposed to boost the performance of local model, further benefit the global model. 
-  
+     - A margin distritional loss is proposed to boost the performance of local model, further benefit the global model. 
+     - Cross silo setting
+ - [Infocom workshop 2021][FedCluster: A Federated Learning Framework for Cross-Device Private ECG Classification](https://ieeexplore.ieee.org/document/9797945)
+     - cross device clustering
+     - a global dataset needed.
+
+
 ## Cross-device
   - [ICLR 2021][MIME: Breaking the centralized barrier for cross-device federated learning](https://proceedings.neurips.cc/paper/2021/file/f0e6be4ce76ccfa73c5a540d992d0756-Paper.pdf)
   - 
@@ -67,7 +77,7 @@
 
 ## For health
   - [Nature Medicine 2021] [Federated learning for predicting clinical outcomes in patients with COVID-19](https://www.nature.com/articles/s41591-021-01506-3)
-  - [Infocom workshop 2021][FedCluster: A Federated Learning Framework for Cross-Device Private ECG Classification](https://arxiv.org/ftp/arxiv/papers/2208/2208.10993.pdf)
+  - [Infocom workshop 2021][FedCluster: A Federated Learning Framework for Cross-Device Private ECG Classification](https://ieeexplore.ieee.org/document/9797945)
   - [Arxiv 2022, FedAvg][Application of federated learning techniques for arrhythmia classification using 12-lead ECG signals](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9797945&tag=1)
     - - [Cic 2020 winner][ECG abnormalities recognition using convolutional network with global skip connections and custom loss function] (https://ieeexplore.ieee.org/abstract/document/9344393)
   - [Personalized Federated Learning for ECG Classification Based on Feature Alignment](https://downloads.hindawi.com/journals/scn/2021/6217601.pdf)
