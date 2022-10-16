@@ -100,7 +100,7 @@ With the privacy constrict, it is also infeasible to require clients to upload d
   - [Arxiv 2022, FedAvg][Application of federated learning techniques for arrhythmia classification using 12-lead ECG signals](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9797945&tag=1)
     - - [Cic 2020 winner][ECG abnormalities recognition using convolutional network with global skip connections and custom loss function] (https://ieeexplore.ieee.org/abstract/document/9344393)
   - [Personalized Federated Learning for ECG Classification Based on Feature Alignment](https://downloads.hindawi.com/journals/scn/2021/6217601.pdf)
-  
+  - [Infocom 2021][FedSens: A Federated Learning Approach for Smart Health Sensing with Class Imbalance in Resource Constrained Edge Computing](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9488776)
 
 ## Client selection
  - [Towards understanding biased client selection in federated learning](https://proceedings.mlr.press/v151/jee-cho22a/jee-cho22a.pdf)
