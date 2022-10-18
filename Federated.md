@@ -48,6 +48,10 @@
   - [NeurIPS 2021] [No Fear of Heterogeneity: Classifier Calibration for Federated Learning with Non-IID Data](https://proceedings.neurips.cc/paper/2021/hash/2f2b265625d76a6704b08093c652fd79-Abstract.html) 
 
 ## Personalisation 
+- [CoRR 2020] [Adaptive Personalized Federated Learning](https://arxiv.org/pdf/2003.13461.pdf)
+   - Prior to this work, the ultimate goal of most FL study is to learn a global model that achieves uniformly good performance over almost all participating clients.
+   - **Client drift**: in the presence of statistical data heterogeneity, the global model might not generalize well on the local data of each client individually.
+   - **Pluralistic approach**: to embrace statistical heterogeneity and mitigate the effect of negative transfer, it is necessary to integrate the personalization into learning instead of finding a single consensus predictor. 
 - [ICML 2021][Ditto: Fair and Robust Federated Learning Through Personalization](https://proceedings.mlr.press/v139/li21h.html)
 - [CoRR 2021][HypCluster: Three Approaches for Personalization with Applications to Federated Learning](https://arxiv.org/abs/2002.10619)(https://arxiv.org/pdf/2002.10619.pdf)
 - [ICLR 2021][FedBN: Federated Learning on Non-IID Features via Local Batch Normalization](https://openreview.net/forum?id=6YEQUn0QICG)
