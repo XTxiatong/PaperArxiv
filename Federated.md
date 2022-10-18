@@ -50,7 +50,7 @@
 ## Personalisation 
 - [CoRR 2020] [Adaptive Personalized Federated Learning](https://arxiv.org/pdf/2003.13461.pdf)
    - Prior to this work, the ultimate goal of most FL study is to learn a global model that achieves uniformly good performance over almost all participating clients.
-   - **Client drift**: in the presence of statistical data heterogeneity, the global model might not generalize well on the local data of each client individually.
+   - **Client drift**: in the presence of statistical data heterogeneity, the global model might not generalize well on the local data of each client individually. -- This means poor generalisation on the client's local testing set.  It is questionable how generalise overall.
    - **Pluralistic approach**: to embrace statistical heterogeneity and mitigate the effect of negative transfer, it is necessary to integrate the personalization into learning instead of finding a single consensus predictor. 
 - [ICML 2021][Ditto: Fair and Robust Federated Learning Through Personalization](https://proceedings.mlr.press/v139/li21h.html)
 - [CoRR 2021][HypCluster: Three Approaches for Personalization with Applications to Federated Learning](https://arxiv.org/abs/2002.10619)(https://arxiv.org/pdf/2002.10619.pdf)
@@ -102,7 +102,7 @@ With the privacy constrict, it is also infeasible to require clients to upload d
   - [Nature Medicine 2021] [Federated learning for predicting clinical outcomes in patients with COVID-19](https://www.nature.com/articles/s41591-021-01506-3)
   - [Infocom workshop 2021][FedCluster: A Federated Learning Framework for Cross-Device Private ECG Classification](https://ieeexplore.ieee.org/document/9797945)
   - [Arxiv 2022, FedAvg][Application of federated learning techniques for arrhythmia classification using 12-lead ECG signals](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9797945&tag=1)
-    - - [Cic 2020 winner][ECG abnormalities recognition using convolutional network with global skip connections and custom loss function] (https://ieeexplore.ieee.org/abstract/document/9344393)
+    - [Cic 2020 winner][ECG abnormalities recognition using convolutional network with global skip connections and custom loss function] (https://ieeexplore.ieee.org/abstract/document/9344393)
   - [Personalized Federated Learning for ECG Classification Based on Feature Alignment](https://downloads.hindawi.com/journals/scn/2021/6217601.pdf)
   - [Infocom 2021][FedSens: A Federated Learning Approach for Smart Health Sensing with Class Imbalance in Resource Constrained Edge Computing](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9488776)
 
