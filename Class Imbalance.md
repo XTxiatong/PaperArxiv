@@ -31,6 +31,9 @@
   -[]
   ### max margin 
   - [CVPR 2019] Bayesian Uncertainty [striking the rught balance with uncertainty](https://arxiv.org/pdf/1901.07590.pdf)
+  - [CVPR 2019] [Class-Balanced Loss Based on Effective Number of Samples](https://openaccess.thecvf.com/content_CVPR_2019/papers/Cui_Class-Balanced_Loss_Based_on_Effective_Number_of_Samples_CVPR_2019_paper.pdf)
+  - [NeurIPS 2019] [Learning Imbalanced Datasets with Label-Distribution-Aware Margin Loss](https://proceedings.neurips.cc/paper/2019/file/621461af90cadfdaf0e8d4cc25129f91-Paper.pdf)
+  - [NeurIPS 2019][Rethinking the Value of Labels for Improving Class-Imbalanced Learning](https://proceedings.neurips.cc/paper/2020/file/e025b6279c1b88d3ec0eca6fcb6e6280-Paper.pdf)
   - [NeurIPS 2020] Posterior [Posterior Re-calibration for Imbalanced Datasets](https://proceedings.neurips.cc/paper/2020/file/5ca359ab1e9e3b9c478459944a2d9ca5-Paper.pdf)
     
     
