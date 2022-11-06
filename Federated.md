@@ -46,6 +46,11 @@
   - [IEEE TRANSACTIONS ON SIGNAL PROCESSING 2021] [FedPD: A Federated Learning Framework With Adaptivity to Non-IID Data](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9556559)
   - [ICLR 2021] From FedPD to CLIME [An Agnostic Approach to Federated Learning with Class Imbalance](https://openreview.net/forum?id=Xo0lbDt975)
   - [NeurIPS 2021] [No Fear of Heterogeneity: Classifier Calibration for Federated Learning with Non-IID Data](https://proceedings.neurips.cc/paper/2021/hash/2f2b265625d76a6704b08093c652fd79-Abstract.html) 
+   - Some observation and understanding about the effect of non-IID
+   - Debias the classfier
+ - [ICML2022][Federated Learning with Label Distribution Skew via Logits Calibration](https://proceedings.mlr.press/v162/zhang22p.html)
+     - A prior will be placed before softmax to calibrate the distribution
+
 
 ## Personalisation 
 - [CoRR 2020] [Adaptive Personalized Federated Learning](https://arxiv.org/pdf/2003.13461.pdf)
@@ -72,9 +77,6 @@ With the privacy constrict, it is also infeasible to require clients to upload d
      - A global dataset is needed to monitor the loss 
  - [ICLR 2022] [CLIMB: An Agnostic Approach to Federated Learning with Class Imbalance](https://openreview.net/forum?id=Xo0lbDt975)
      - No global data
-     - Cross silo setting
- - [ICML2022][Federated Learning with Label Distribution Skew via Logits Calibration](https://proceedings.mlr.press/v162/zhang22p.html)
-     - A margin distritional loss is proposed to boost the performance of local model, further benefit the global model. 
      - Cross silo setting
  - [Infocom workshop 2021][FedCluster: A Federated Learning Framework for Cross-Device Private ECG Classification](https://ieeexplore.ieee.org/document/9797945)
      - cross device clustering
