@@ -10,7 +10,6 @@
    - A series of solutions have been compared
    - Some personalisation approched have been covered
 
-
 - [ICDE 2022][Federated Learning on Non-IID Data Silos: An Experimental Study](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9835537)
 - [NeurIPS 2022][FLamby: Datasets and Benchmarks for Cross-Silo Federated Learning in Realistic Settings](https://openreview.net/forum?id=GgM5DiAb6A2)
 - [NeurIPS 2022][pFL-Bench: A Comprehensive Benchmark for Personalized Federated Learning](https://openreview.net/pdf?id=2ptbv_JjYKA) [Alibaba FedScope](https://federatedscope.io/)
@@ -46,8 +45,8 @@
   - [IEEE TRANSACTIONS ON SIGNAL PROCESSING 2021] [FedPD: A Federated Learning Framework With Adaptivity to Non-IID Data](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9556559)
   - [ICLR 2021] From FedPD to CLIME [An Agnostic Approach to Federated Learning with Class Imbalance](https://openreview.net/forum?id=Xo0lbDt975)
   - [NeurIPS 2021] [No Fear of Heterogeneity: Classifier Calibration for Federated Learning with Non-IID Data](https://proceedings.neurips.cc/paper/2021/hash/2f2b265625d76a6704b08093c652fd79-Abstract.html) 
-   - Some observation and understanding about the effect of non-IID
-   - Debias the classfier
+      - Some observation and understanding about the effect of non-IID
+      - Debias the classfier
  - [ICML2022][Federated Learning with Label Distribution Skew via Logits Calibration](https://proceedings.mlr.press/v162/zhang22p.html)
      - A prior will be placed before softmax to calibrate the distribution
 
@@ -93,7 +92,7 @@ With the privacy constrict, it is also infeasible to require clients to upload d
 
 ## Prototype:
  - [AAAI2022][Fedproto: Federated prototype learning across heterogeneous clients](https://arxiv.org/abs/2104.01893)
-    - A regularization term to approach local prototype to the global one is reuired. Otherwise, it is hard to gurantte they are in the same feature space. 
+    - A regularization term to approach local prototype to the global one is required. Otherwise, it is hard to gurantte they are in the same feature space. 
 
 
 ## Generativ model and federated learning:
