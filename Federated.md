@@ -49,7 +49,7 @@
       - Debias the classfier
  - [ICML2022][Federated Learning with Label Distribution Skew via Logits Calibration](https://proceedings.mlr.press/v162/zhang22p.html)
      - A prior will be placed before softmax to calibrate the distribution
-
+ - [KDD2021][Fedrs: Federated learning with restricted softmax for label distribution non-iid data](https://dl.acm.org/doi/abs/10.1145/3447548.3467254)
 
 ## Personalisation 
 - [CoRR 2020] [Adaptive Personalized Federated Learning](https://arxiv.org/pdf/2003.13461.pdf)
