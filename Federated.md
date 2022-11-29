@@ -1,6 +1,8 @@
 
 ## Google
 - [Artificial Intelligence and Statistics 2017, McMahan et al.][FedAvg: Communication-Efficient Learning of Deep Networks from Decentralized Data](http://proceedings.mlr.press/v54/mcmahan17a?ref=https://githubhelp.com)
+- [ICLR 2020][On the convergence of FedAvg on non-IID data](https://openreview.net/forum?id=HJxNAnVtDS)
+   - FedAvg can converge with propor local epochs and decaying learning rate
 
 ## Survey and benckmarks
 - [FedEval: A Benchmark System with a Comprehensive Evaluation Model for Federated Learning](https://arxiv.org/pdf/2011.09655.pdf)
@@ -59,6 +61,7 @@
 - [ICML 2021][Ditto: Fair and Robust Federated Learning Through Personalization](https://proceedings.mlr.press/v139/li21h.html)
 - [CoRR 2021][HypCluster: Three Approaches for Personalization with Applications to Federated Learning](https://arxiv.org/abs/2002.10619)(https://arxiv.org/pdf/2002.10619.pdf)
 - [ICLR 2021][FedBN: Federated Learning on Non-IID Features via Local Batch Normalization](https://openreview.net/forum?id=6YEQUn0QICG)
+- [AAAI 2021][Personalized Cross-Silo Federated Learning on Non-IID Data](https://www.aaai.org/AAAI21Papers/AAAI-5802.HuangY.pdf)
 - [NeurIPS 2020][citation 200+][pFedMe: Personalized federated learning with moreau envelopes](https://proceedings.neurips.cc/paper/2020/hash/f4f1f13c8289ac1b1ee0ff176b56fc60-Abstract.html)
 - [NeurIPS 2021][FedEM: Federated Multi-Task Learning under a Mixture of Distributions](https://proceedings.neurips.cc/paper/2021/hash/82599a4ec94aca066873c99b4c741ed8-Abstract.html)
 - [ICML 2022] [Personalized Federated Learning via Variational Bayesian Inference](https://proceedings.mlr.press/v162/zhang22o/zhang22o.pdf)
