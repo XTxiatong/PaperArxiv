@@ -47,5 +47,8 @@
 - [AAAI 2022] [Improving Evidential Deep Learning via Multi-task Learning](https://www.aaai.org/AAAI22Papers/AAAI-2489.OhD.pdf)
 - [AAAI 2022] [Addressing class imbalance in federated learning](https://ojs.aaai.org/index.php/AAAI/article/view/17219)
 - [AAAI 2020] [A Novel Model for Imbalanced Data Classification](https://ojs.aaai.org/index.php/AAAI/article/view/6145)
+- [ICML 2022][Class-Imbalanced Semi-Supervised Learning with Adaptive Thresholding](https://proceedings.mlr.press/v162/guo22e/guo22e.pdf)
+- [ICML 2022][Pure Noise to the Rescue of Insufficient Data: Improving Imbalanced Classification by Training on Random Noise Images](https://proceedings.mlr.press/v162/zada22a/zada22a.pdf)
+- 
 
 
