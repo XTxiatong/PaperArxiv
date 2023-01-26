@@ -26,12 +26,7 @@
 ##  Uncentainty quanitifcation
 - [Approaches to Uncertainty Quantification in Federated Deep Learning](https://pdfl.iais.fraunhofer.de/preprints/PDFL_2.pdf) [[slides](http://ai.ms.mff.cuni.cz/~sui/linsner.pdf)]
 - [NeurIPS 2022][FedPop:  A Bayesian Approach for Personalised Federated Learning](https://arxiv.org/abs/2206.03611)
-- [ICML2022 Spotlight] [On the Practicality of Deterministic Epistemic Uncertainty](https://proceedings.mlr.press/v162/postels22a/postels22a.pdf)
-  - Performance of detecting correct/incorrect predictions
-  <img src="https://user-images.githubusercontent.com/26398708/187662495-f691e79a-e6dd-4c57-beba-cc2f3ae3025c.png" width="400">
-  
-  - uncertainty with increasing data shift
- <img src="https://user-images.githubusercontent.com/26398708/187662750-036eb3ca-b4db-424b-ae87-b6e6cfabba8a.png" width="400">
+
  
 ## Non IID
   - [2018, the  primary study showing the negative impact of non-iid][Federated learning with non-iid data](https://arxiv.org/abs/1806.00582)
