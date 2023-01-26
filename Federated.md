@@ -108,3 +108,10 @@ With the privacy constrict, it is also infeasible to require clients to upload d
 ## Client selection
  - [Towards understanding biased client selection in federated learning](https://proceedings.mlr.press/v151/jee-cho22a/jee-cho22a.pdf)
 
+
+## Continuel learning
+- [PAKDD 2022][Knowledge Lock: Overcoming Catastrophic Forgetting in Federated Learning](https://link.springer.com/chapter/10.1007/978-3-031-05933-9_47)
+- [PAKDD 2022][Overcoming Forgetting in Local Adaptation of Federated Learning Model](https://link.springer.com/chapter/10.1007/978-3-031-05933-9_48)
+- [IJCAI 2022][Continual Federated Learning Based on Knowledge Distillation](https://www.ijcai.org/proceedings/2022/0303.pdf)
+- [NeurIPS 2022][Preservation of the Global Knowledge by Not-True Distillation in Federated Learning](https://openreview.net/forum?id=qw3MZb1Juo)
+
