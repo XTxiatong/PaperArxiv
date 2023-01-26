@@ -29,7 +29,12 @@ In this Arxiv, latest literature from NIPS, ICML, ICLR, etc will be covered (on-
  - [[ICML2021]Evaluating Robustness of Predictive Uncertainty Estimation: Are Dirichlet-based Models Reliable?](http://proceedings.mlr.press/v139/kopetzki21a/kopetzki21a.pdf)
    - Openreview from [ICLR](https://openreview.net/forum?id=uRKqXoN-Ic9) 
  - [[IJCAI2019]Statistical Guarantees for the Robustness of Bayesian Neural Networks (Robustness measurement)](https://www.ijcai.org/proceedings/2019/0789.pdf)
-
+ - [ICML2022 Spotlight] [On the Practicality of Deterministic Epistemic Uncertainty](https://proceedings.mlr.press/v162/postels22a/postels22a.pdf)
+   - Performance of detecting correct/incorrect predictions
+  <img src="https://user-images.githubusercontent.com/26398708/187662495-f691e79a-e6dd-4c57-beba-cc2f3ae3025c.png" width="400">
+  
+   - uncertainty with increasing data shift
+ <img src="https://user-images.githubusercontent.com/26398708/187662750-036eb3ca-b4db-424b-ae87-b6e6cfabba8a.png" width="400">
 
 ## Uncertainty Quantificatoin:
 - [[ICML2016] Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning (MCDropout)](http://proceedings.mlr.press/v48/gal16.html)
