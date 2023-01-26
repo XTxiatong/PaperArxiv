@@ -20,11 +20,11 @@
 ## Scholars 
   - [CMU Tian Li](https://scholar.google.com/citations?user=8JWoJrAAAAAJ&hl=en)
     - FedProx, 2018, 2020
-    - Ditto, 2021
+    - Ditto, ICML, 2021
 
 
 ##  Uncentainty quanitifcation
-- [Approaches to Uncertainty Quantification in Federated Deep Learning](https://pdfl.iais.fraunhofer.de/preprints/PDFL_2.pdf) [slides](http://ai.ms.mff.cuni.cz/~sui/linsner.pdf)
+- [Approaches to Uncertainty Quantification in Federated Deep Learning](https://pdfl.iais.fraunhofer.de/preprints/PDFL_2.pdf) [[slides](http://ai.ms.mff.cuni.cz/~sui/linsner.pdf)]
 - [NeurIPS 2022][FedPop:  A Bayesian Approach for Personalised Federated Learning](https://arxiv.org/abs/2206.03611)
 - [ICML2022 Spotlight] [On the Practicality of Deterministic Epistemic Uncertainty](https://proceedings.mlr.press/v162/postels22a/postels22a.pdf)
   - Performance of detecting correct/incorrect predictions
