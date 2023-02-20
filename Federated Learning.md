@@ -114,5 +114,6 @@ With the privacy constrict, it is also infeasible to require clients to upload d
 - [PAKDD 2022][Overcoming Forgetting in Local Adaptation of Federated Learning Model](https://link.springer.com/chapter/10.1007/978-3-031-05933-9_48)
 - [IJCAI 2022][Continual Federated Learning Based on Knowledge Distillation](https://www.ijcai.org/proceedings/2022/0303.pdf)
 - [NeurIPS 2022][Preservation of the Global Knowledge by Not-True Distillation in Federated Learning](https://openreview.net/forum?id=qw3MZb1Juo)
+  - [Code][FedNTD](https://github.com/Lee-Gihun/FedNTD)
 - [arXiv 2022][A closer look at rehearsal-free continual learning](https://arxiv.org/pdf/2203.17269.pdf)
 - 
