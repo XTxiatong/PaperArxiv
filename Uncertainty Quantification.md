@@ -52,6 +52,7 @@ In this Arxiv, latest literature from NIPS, ICML, ICLR, etc will be covered (on-
 - [[ICML2022] Transformer Neural Processes: Uncertainty-Aware Meta Learning Via Sequence Modeling](https://proceedings.mlr.press/v162/nguyen22b.html)
 - [[ICML2022] On the Practicality of Deterministic Epistemic Uncertainty](https://proceedings.mlr.press/v162/postels22a.html)
 - [[NeurIPS2022] Pitfalls of Epistemic Uncertainty Quantification through Loss Minimisation](https://arxiv.org/pdf/2203.06102.pdf)
+- [[AAAI2023] Post-hoc Uncertainty Learning using a Dirichlet Meta-Model](https://arxiv.org/abs/2212.07359)
 
 
 ### Confidence (Representation learning-based):
