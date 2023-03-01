@@ -64,7 +64,7 @@
   -   Non-IID setting, each client owns 5/10 classes. 
         <!--<img src="https://user-images.githubusercontent.com/26398708/188150594-7d76df5f-f83e-4622-a61e-df130567ce40.png" width="200">-->
 <img src="https://user-images.githubusercontent.com/26398708/186911075-2c1d2632-2fab-44f0-8709-3391a5e7d73e.png" width="300">
-
+- [CVPR 2022] [Learn from Others and Be Yourself in Heterogeneous Federated Learning](https://openaccess.thecvf.com/content/CVPR2022/papers/Huang_Learn_From_Others_and_Be_Yourself_in_Heterogeneous_Federated_Learning_CVPR_2022_paper.pdf)
 
 ## Imbalance
 "Due to the mismatch among local and global data distribution, general approches to class imbalace on the clients may be not effective.
