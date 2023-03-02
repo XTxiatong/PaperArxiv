@@ -51,6 +51,9 @@
  - [CVPR 2022][FedAlign: Local Leanring Matters: rethink data hetreogenirty in Federated Learning](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9880310)
       - [Code](https://github.com/mmendiet/FedAlign)
 
+ - [NeurIPS 2022] [FedNTD: Preservation of the global knowledge by not-true distillation in federated learning](https://openreview.net/forum?id=qw3MZb1Juo)
+ - 
+
 ## Personalisation 
 - [CoRR 2020] [Adaptive Personalized Federated Learning](https://arxiv.org/pdf/2003.13461.pdf)
    - Prior to this work, the ultimate goal of most FL study is to learn a global model that achieves uniformly good performance over almost all participating clients.
