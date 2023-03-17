@@ -35,7 +35,8 @@ In this Arxiv, latest literature from NIPS, ICML, ICLR, etc will be covered (on-
   
    - uncertainty with increasing data shift
  <img src="https://user-images.githubusercontent.com/26398708/187662750-036eb3ca-b4db-424b-ae87-b6e6cfabba8a.png" width="400">
-
+   - [[ICLR2023] TRAINING, ARCHITECTURE, AND PRIOR FOR DETERMINISTIC UNCERTAINTY METHODS ](https://arxiv.org/pdf/2303.05796.pdf)
+   
 ## Uncertainty Quantificatoin:
 - [[ICML2016] Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning (MCDropout)](http://proceedings.mlr.press/v48/gal16.html)
 - [[NeurIPS2019] A simple baseline for bayesian uncertainty in deep learning (SWAG)](https://proceedings.neurips.cc/paper/2019/file/118921efba23fc329e6560b27861f0c2-Paper.pdf)
