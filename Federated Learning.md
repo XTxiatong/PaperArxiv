@@ -11,7 +11,7 @@
    - A variety types of non-iidness are introduces, including feature space and label space
    - A series of solutions have been compared
    - Some personalisation approched have been covered
-
+- [Future Generation Computer Systems 2022 (JCR 1, IF=7.307)][A state-of-the-art survey on solving non-IID data in Federated Learning](https://www.sciencedirect.com/science/article/pii/S0167739X22001686)
 - [ICDE 2022][Federated Learning on Non-IID Data Silos: An Experimental Study](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9835537)
 - [NeurIPS 2022][FLamby: Datasets and Benchmarks for Cross-Silo Federated Learning in Realistic Settings](https://openreview.net/forum?id=GgM5DiAb6A2)
 - [NeurIPS 2022][pFL-Bench: A Comprehensive Benchmark for Personalized Federated Learning](https://openreview.net/pdf?id=2ptbv_JjYKA) [Alibaba FedScope](https://federatedscope.io/)
