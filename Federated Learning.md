@@ -122,4 +122,4 @@ With the privacy constrict, it is also infeasible to require clients to upload d
 - [NeurIPS 2022][Preservation of the Global Knowledge by Not-True Distillation in Federated Learning](https://openreview.net/forum?id=qw3MZb1Juo)
   - [Code][FedNTD](https://github.com/Lee-Gihun/FedNTD)
 - [arXiv 2022][A closer look at rehearsal-free continual learning](https://arxiv.org/pdf/2203.17269.pdf)
-- 
+- [arXiv 2015][Distilling the knowledge in a neural network](https://arxiv.org/abs/1503.02531) 
