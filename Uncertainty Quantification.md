@@ -100,6 +100,9 @@ hyper-parameter.)](https://proceedings.neurips.cc/paper/2020/hash/5ca359ab1e9e3b
 - [[Computer Methods and Programs in Biomedicine] Uncertainty quantification in DenseNet model using myocardial infarction ECG signals](https://www.sciencedirect.com/science/article/pii/S0169260722006897)
    - Dirichlet distribution
    - ECG classification
+- [[npj Digital Medicine] Statistical uncertainty quantification to augment clinical decision support: a first implementation in sleep medicine](https://www.nature.com/articles/s41746-021-00515-3)
+   - Entropy of softmax
+   - EEG, human-in-the-loop
 
 ## Out-of-distribution Detection: 
 ### Type of shift:
