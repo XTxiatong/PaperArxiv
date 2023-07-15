@@ -1,9 +1,9 @@
 # Awesome Uncertainty Quantification
-Estimating the uncertainty of deep learning models has gained exponential interest recent years, mainly due to the safty concerns for real applications. 
-In this Arxiv, latest literature from NIPS, ICML, ICLR, etc will be covered (on-updating). some papers may be included multiple times if they cover across topics.
+Estimating the uncertainty of deep learning models has gained exponential interest in recent years, mainly due to the safety concerns for real applications. 
+In this Arxiv, the latest literature from NIPS, ICML, ICLR, etc will be covered (on-updating). some papers may be included multiple times if they cover across topics.
 
-## Survey adn tutorials:
-- [[Information Fusion 2021] A review of uncertainty quantification in deep learning: Techniques, applications and challenges](https://www.sciencedirect.com/science/article/pii/S1566253521001081)
+## Survey and tutorials:
+- [[Information Fusion 2021] A review of uncertainty quantification in deep learning: Techniques, applications, and challenges](https://www.sciencedirect.com/science/article/pii/S1566253521001081)
 ![image](https://user-images.githubusercontent.com/26398708/143864354-de4a2e38-fc8a-4095-9056-52f0e74ca710.png)
 - [[arXiv2020] A Survey of Uncertainty in Deep Neural Networks](https://arxiv.org/abs/2107.03342)
 ![image](https://user-images.githubusercontent.com/26398708/143865096-85099b9f-723c-4fb0-bba7-b679bb5f107b.png)
@@ -20,6 +20,7 @@ In this Arxiv, latest literature from NIPS, ICML, ICLR, etc will be covered (on-
 - [[A Survey on Evidential Deep Learning For Single-Pass Uncertainty Estimation](https://arxiv.org/pdf/2110.03051.pdf)]
 - [[npj Digital Medicine 2021] Second opinion needed: communicating uncertainty in medical machine learning](https://www.nature.com/articles/s41746-020-00367-3.pdf)
 - [[ICML2022] Workshop: Distribution-Free Uncertainty Quantification](https://icml.cc/virtual/2022/workshop/13460)
+- [[Nature Machine Intelligence 2019] The need for uncertainty quantification in machine-assisted medical decision making](https://www.nature.com/articles/s42256-018-0004-1)
 
 ## Dataset and Benchmarking:
 - [[NeurIPS2019] Can you trust your model's uncertainty? Evaluating predictive uncertainty under dataset shift](https://proceedings.neurips.cc/paper/2019/hash/8558cb408c1d76621371888657d2eb1d-Abstract.html)
@@ -37,7 +38,7 @@ In this Arxiv, latest literature from NIPS, ICML, ICLR, etc will be covered (on-
  <img src="https://user-images.githubusercontent.com/26398708/187662750-036eb3ca-b4db-424b-ae87-b6e6cfabba8a.png" width="400">
    - [[ICLR2023] TRAINING, ARCHITECTURE, AND PRIOR FOR DETERMINISTIC UNCERTAINTY METHODS ](https://arxiv.org/pdf/2303.05796.pdf)
    
-## Uncertainty Quantificatoin:
+## Uncertainty Quantification:
 - [[ICML2016] Dropout as a Bayesian Approximation: Representing Model Uncertainty in Deep Learning (MCDropout)](http://proceedings.mlr.press/v48/gal16.html)
 - [[NeurIPS2019] A simple baseline for bayesian uncertainty in deep learning (SWAG)](https://proceedings.neurips.cc/paper/2019/file/118921efba23fc329e6560b27861f0c2-Paper.pdf)
   - [[Video and codes](https://www.youtube.com/watch?v=5WOj_ZZJ2wM)]
@@ -93,16 +94,17 @@ hyper-parameter.)](https://proceedings.neurips.cc/paper/2020/hash/5ca359ab1e9e3b
 - [[MIDL2021] Test-Time Mixup Augmentation for Uncertainty Estimation in Skin Lesion Diagnosis](https://openreview.net/forum?id=aGfL5C9wRx_)
 - [[ICML2021]Evaluating Robustness of Predictive Uncertainty Estimation: Are Dirichlet-based Models Reliable?](http://proceedings.mlr.press/v139/kopetzki21a/kopetzki21a.pdf)
 
-## Truthyworthy AI and application:
+## Trustworthy AI and health application:
 - [[NeurIPS2021] Reliable and Trustworthy Machine Learning for Health Using Dataset Shift Detection](https://openreview.net/forum?id=hNMOSUxE8o6)
 - [[Google 2021] Does Your Dermatology Classifier Know What It Doesn't Know? Detecting the Long-Tail of Unseen Conditions](https://arxiv.org/pdf/2104.03829.pdf)
+- 
 
 ## Out-of-distribution Detection: 
 ### Type of shift:
  - [[NeurIPS2021]An Information-theoretic Approach to Distribution Shifts](https://proceedings.neurips.cc/paper/2021/hash/93661c10ed346f9692f4d512319799b3-Abstract.html)
     - distribution shift = Covariate shift + Concept shift
 
-### Emperical and theoretical:
+### Empirical and theoretical:
  - [[NeurIPS2020] Why Normalizing Flows Fail to Detect Out-of-Distribution Data](https://proceedings.neurips.cc/paper/2020/hash/ecb9fe2fbb99c31f567e9823e884dbec-Abstract.html)
  - [[NeurIPS2020] On the Value of Out-of-Distribution Testing: An Example of Goodhart's Law](https://proceedings.neurips.cc/paper/2020/hash/045117b0e0a11a242b9765e79cbf113f-Abstract.html)
  - [[NeurIPS2021] Exploring the Limits of Out-of-Distribution Detection](https://proceedings.neurips.cc/paper/2021/hash/3941c4358616274ac2436eacf67fae05-Abstract.html)
