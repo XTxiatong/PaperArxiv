@@ -104,6 +104,11 @@ hyper-parameter.)](https://proceedings.neurips.cc/paper/2020/hash/5ca359ab1e9e3b
    - Entropy of softmax
    - EEG, human-in-the-loop
 
+- [[Neural Computing and Applications 2021]Leveraging the Bhattacharyya coefficient for uncertainty quantification in deep neural networks](https://link.springer.com/article/10.1007/s00521-021-05789-y)
+   - BC score
+   - CIFAR and HAM1000
+   - Class imbalance is noticed but not addressed
+
 ## Out-of-distribution Detection: 
 ### Type of shift:
  - [[NeurIPS2021]An Information-theoretic Approach to Distribution Shifts](https://proceedings.neurips.cc/paper/2021/hash/93661c10ed346f9692f4d512319799b3-Abstract.html)
