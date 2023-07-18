@@ -21,6 +21,7 @@ In this Arxiv, the latest literature from NIPS, ICML, ICLR, etc will be covered 
 - [[npj Digital Medicine 2021] Second opinion needed: communicating uncertainty in medical machine learning](https://www.nature.com/articles/s41746-020-00367-3.pdf)
 - [[ICML2022] Workshop: Distribution-Free Uncertainty Quantification](https://icml.cc/virtual/2022/workshop/13460)
 - [[Nature Machine Intelligence 2019] The need for uncertainty quantification in machine-assisted medical decision making](https://www.nature.com/articles/s42256-018-0004-1)
+- [[Nature Medicine 2023] Enhancing the reliability and accuracy of AI-enabled diagnosis via complementarity-driven deferral to clinicians](https://www.nature.com/articles/s41591-023-02437-x)
 
 ## Dataset and Benchmarking:
 - [[NeurIPS2019] Can you trust your model's uncertainty? Evaluating predictive uncertainty under dataset shift](https://proceedings.neurips.cc/paper/2019/hash/8558cb408c1d76621371888657d2eb1d-Abstract.html)
@@ -103,11 +104,12 @@ hyper-parameter.)](https://proceedings.neurips.cc/paper/2020/hash/5ca359ab1e9e3b
 - [[npj Digital Medicine] Statistical uncertainty quantification to augment clinical decision support: a first implementation in sleep medicine](https://www.nature.com/articles/s41746-021-00515-3)
    - Entropy of softmax
    - EEG, human-in-the-loop
-
 - [[Neural Computing and Applications 2021]Leveraging the Bhattacharyya coefficient for uncertainty quantification in deep neural networks](https://link.springer.com/article/10.1007/s00521-021-05789-y)
    - BC score
    - CIFAR and HAM1000
    - Class imbalance is noticed but not addressed
+- [[Nature Machine Intelligence 2019] The need for uncertainty quantification in machine-assisted medical decision making](https://www.nature.com/articles/s42256-018-0004-1)
+- [[Nature Medicine 2023] Enhancing the reliability and accuracy of AI-enabled diagnosis via complementarity-driven deferral to clinicians](https://www.nature.com/articles/s41591-023-02437-x)
 
 ## Out-of-distribution Detection: 
 ### Type of shift:
