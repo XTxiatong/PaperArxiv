@@ -55,7 +55,7 @@ In this Arxiv, the latest literature from NIPS, ICML, ICLR, etc will be covered 
 - [[ICML2022] Transformer Neural Processes: Uncertainty-Aware Meta Learning Via Sequence Modeling](https://proceedings.mlr.press/v162/nguyen22b.html)
 - [[ICML2022] On the Practicality of Deterministic Epistemic Uncertainty](https://proceedings.mlr.press/v162/postels22a.html)
 - [[NeurIPS2022] Pitfalls of Epistemic Uncertainty Quantification through Loss Minimisation](https://arxiv.org/pdf/2203.06102.pdf)
-- [[AAAI2023] Post-hoc Uncertainty Learning using a Dirichlet Meta-Model](https://arxiv.org/abs/2212.07359)
+
 
 
 ### Confidence (Representation learning-based):
@@ -64,7 +64,6 @@ In this Arxiv, the latest literature from NIPS, ICML, ICLR, etc will be covered 
 - [[NeurIPS2019] Addressing Failure Prediction by Learning Model Confidence (ConfidNet)](https://papers.nips.cc/paper/2019/hash/757f843a169cc678064d9530d12a1881-Abstract.html)
 - [[NeurIPS2019] Accurate Layerwise Interpretable Competence Estimation (ALICE)](https://proceedings.neurips.cc/paper/2019/hash/a11da6bd58b95b334f8cd49f00918f16-Abstract.html)
 - [[ICML2020] Confidence-Aware Learning for Deep Neural Networks (Correctness Ranking Loss)](http://proceedings.mlr.press/v119/moon20a.html)
-
 
 ### Ensemble:
 - [[NeurIPS2017] Simple and Scalable Predictive Uncertainty
@@ -140,17 +139,20 @@ Learning Causal Semantic Representation for Out-of-Distribution Prediction](http
 - [[NeurIPS2021] STEP: Out-of-Distribution Detection in the Presence of Limited In-Distribution Labeled Data](https://proceedings.neurips.cc/paper/2021/hash/f4334c131c781e2a6f0a5e34814c8147-Abstract.html)
 - [[NeurIPS2021] Task-Agnostic Undesirable Feature Deactivation Using Out-of-Distribution Data](https://proceedings.neurips.cc/paper/2021/hash/21186d7b1482412ab14f0332b8aee119-Abstract.html)
 
-##### Evidential network:
+##### Evidential Deep Learning:
  ![image](https://user-images.githubusercontent.com/26398708/144141888-9e777456-404b-4f0d-a0a1-103032958c99.png)
 - [[Normolising flows](https://arxiv.org/pdf/1802.04908.pdf)]
-- [[NeurIPS2018] Evidential deep learning to quantify classification uncertainty](https://proceedings.neurips.cc/paper/2018/file/a981f2b708044d6fb4a71a1463242520-Paper.pdf)
+- [[NeurIPS2018] Prior Network: Evidential deep learning to quantify classification uncertainty](https://proceedings.neurips.cc/paper/2018/file/a981f2b708044d6fb4a71a1463242520-Paper.pdf)
   - [[video](https://www.youtube.com/watch?v=toTcf7tZK8c)][[Github](https://github.com/aamini/evidential-deep-learning/)][[Codes](https://github.com/muratsensoy/muratsensoy.github.io)][[ICCV2021](https://openaccess.thecvf.com/content/ICCV2021/papers/Bao_Evidential_Deep_Learning_for_Open_Set_Action_Recognition_ICCV_2021_paper.pdf)]
 - [[NeurIPS2020] Posterior Network: Uncertainty Estimation without OOD Samples via Density-Based Pseudo-Counts](https://proceedings.neurips.cc/paper/2020/hash/0eac690d7059a8de4b48e90f14510391-Abstract.html)
  [[Codes](https://github.com/sharpenb/Posterior-Network)]
  - [[ICML2021]Evaluating Robustness of Predictive Uncertainty Estimation: Are Dirichlet-based Models Reliable?](http://proceedings.mlr.press/v139/kopetzki21a/kopetzki21a.pdf)
  - [[ICLR2022] Natural Posterior Network: Deep Bayesian Predictive Uncertainty for Exponential Family Distributions](https://openreview.net/forum?id=tV3N0DWMxCg)
  - [[AAAI2021] Multidimensional Uncertainty-Aware Evidential Neural Networks](https://arxiv.org/pdf/2012.13676.pdf)
- - [[ICASP2022] SEED: SOUND EVENT EARLY DETECTION VIA EVIDENTIAL UNCERTAINTY](https://arxiv.org/pdf/2202.02441.pdf)
+ - [[ICASSP2022] SEED: SOUND EVENT EARLY DETECTION VIA EVIDENTIAL UNCERTAINTY](https://arxiv.org/pdf/2202.02441.pdf)
+- [[AAAI2023] Post-hoc Uncertainty Learning using a Dirichlet Meta-Model](https://arxiv.org/abs/2212.07359)
+- [[IEEE/CVF 2024] Evidential Uncertainty Quantification: A Variance-Based Perspective](https://arxiv.org/abs/2311.11367)
+   
 ##### Generative model:
 - [[NeurIPS2019] Likelihood Ratios for Out-of-Distribution Detection](https://proceedings.neurips.cc/paper/2019/hash/1e79596878b2320cac26dd792a6c51c9-Abstract.html)
 - [[ICLR2019] Do Deep Generative Models Know What They Don't Know?](https://openreview.net/forum?id=H1xwNhCcYm)
