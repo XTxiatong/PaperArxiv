@@ -5,7 +5,7 @@
 - [arxiv 2024] Empowering Time Series Analysis with Large Language Models: A Survey
 - [github] liaoyuhua/LLM4TS: Large Language Models for Time Series. (github.com) 
 https://github.com/xiyuanzh/awesome-llm-time-series
-- [arxiv 2024] Large Language Models for Time Series: A Survey
+- [arxiv 2024] Large Language Models for Time Series: A Survey | [paper](https://arxiv.org/abs/2402.01801)
 - [arxiv 2024] Retrieval-Augmented Generation for Large Language Models: A Survey
 
 ## Adapting LLMs for time series
