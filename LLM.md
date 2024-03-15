@@ -11,6 +11,7 @@ https://github.com/xiyuanzh/awesome-llm-time-series
 ## Adapting LLMs for time series
 - [ICLR 2024] TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for Time Series | OpenReview
 - [ICLR 2024] Time-LLM: Time Series Forecasting by Reprogramming Large Language Models | [OpenReview](https://openreview.net/forum?id=Unb5CVPtae) | [Code](https://github.com/KimMeen/Time-LLM)
+- [Neurips 2023] [One Fits All: Power General Time Series Analysis by Pretrained LM](https://arxiv.org/abs/2302.11939)
 
 ## LLMs for health
 - [Nature 2023, Google] Large language models encode clinical knowledge [very interesting to see the uncertainty quantification part]
