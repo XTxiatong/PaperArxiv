@@ -68,6 +68,7 @@ In this Arxiv, the latest literature from NIPS, ICML, ICLR, etc will be covered 
 ### Ensemble:
 - [[NeurIPS2017] Simple and Scalable Predictive Uncertainty
 Estimation using Deep Ensembles](https://proceedings.neurips.cc/paper/2017/file/9ef2ed4b7fd2c810847ffa5fa85bce38-Paper.pdf)
+    -- proper loss function, Brier score, average aggrgation
 - [[NeurIPS2019] Accurate Uncertainty Estimation and Decomposition in Ensemble Learning](https://proceedings.neurips.cc/paper/2019/hash/1cc8a8ea51cd0adddf5dab504a285915-Abstract.html)
 - [[ICLR2021] Training independent subnetworks for robust prediction (MIMO)](https://openreview.net/forum?id=OGg9XnKxFAH)
 - [[NeurIPS2021] Scaling Ensemble Distribution Distillation to Many Classes with Proxy Targets (A Malinin and M Gales, Ensemble+Dirichlet)](https://proceedings.neurips.cc/paper/2021/hash/2f4ccb0f7a84f335affb418aee08a6df-Abstract.html)
