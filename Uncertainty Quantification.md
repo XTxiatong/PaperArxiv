@@ -151,7 +151,6 @@ Learning Causal Semantic Representation for Out-of-Distribution Prediction](http
  - [[ICLR2022] Natural Posterior Network: Deep Bayesian Predictive Uncertainty for Exponential Family Distributions](https://openreview.net/forum?id=tV3N0DWMxCg)
  - [[AAAI2021] Multidimensional Uncertainty-Aware Evidential Neural Networks](https://arxiv.org/pdf/2012.13676.pdf)
  - [[ICASSP2022] SEED: SOUND EVENT EARLY DETECTION VIA EVIDENTIAL UNCERTAINTY](https://arxiv.org/pdf/2202.02441.pdf)
-- [[AAAI2023] Post-hoc Uncertainty Learning using a Dirichlet Meta-Model](https://arxiv.org/abs/2212.07359)
 - [[IEEE/CVF 2024] Evidential Uncertainty Quantification: A Variance-Based Perspective](https://arxiv.org/abs/2311.11367)
    
 ##### Generative model:
@@ -173,7 +172,9 @@ Learning Causal Semantic Representation for Out-of-Distribution Prediction](http
 - [[NeurIPS2021] Towards a Theoretical Framework of Out-of-Distribution Generalization](https://proceedings.neurips.cc/paper/2021/hash/c5c1cb0bebd56ae38817b251ad72bedb-Abstract.html)
 - [[NeurIPS2021] On the Out-of-distribution Generalization of Probabilistic Image Modelling (Cam&Huawei)](https://proceedings.neurips.cc/paper/2021/hash/1f88c7c5d7d94ae08bd752aa3d82108b-Abstract.html)
 
-
+#### Pretrained backbone:
+- [[AAAI2023] Post-hoc Uncertainty Learning using a Dirichlet Meta-Model](https://arxiv.org/abs/2212.07359)
+- [[ICML2024] [Decomposing Uncertainty for Large Language Models through Input Clarification Ensembling](https://arxiv.org/abs/2311.08718)
 
 ## Non-parametric Gaussian Process:
  - [[NeurIPS 2020]Simple and Principled Uncertainty Estimation with Deterministic Deep Learning via Distance Awareness](https://papers.nips.cc/paper/2020/file/543e83748234f7cbab21aa0ade66565f-Paper.pdf)
