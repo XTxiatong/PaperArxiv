@@ -28,10 +28,26 @@
   - Data: PTB-XL (report + five conditions), 
   - Takeaway: For **ECG Encoder, transformer > Resnet** > LSTM > MLP; For text decoder, BioClinical BEART is good
 
-[MIDL23, Shenda Hong] Frozen Lauguage Models Healps ECG Zero-Shot Learning
+[MIDL23, Shenda Hong from PKU, Rossella and Che Liu from IC] Frozen Lauguage Models Healps ECG Zero-Shot Learning
 [ICASSP24, Rossella] ETP: Learning Transferable ECG Representations via ECG-Text Pre-traning
   - Architecture: ECG Encoder + LLM Decoder in a constrastive way, 
   - Loss: **CLIP** loss with ECG reports
   - Note: Trained with report, test with both report and zero-shot disease diganosis
   - Data: PTB-XL (report + five conditions),  MIT-BIH, CPSC 
-  - Takeaway: This is good training for reports and tests related to diagnosis. *Reports and labels have similarities*, but how can we reverse this?
+  - Takeaway 1: This is good training for reports and tests related to diagnosis. *Reports and labels have similarities*, but how can we reverse this?
+  - Takeaway 2: Another anagle to think about this work: we can use LLM to train better encoders,  signal embedding align with text high-level embeddings
+
+[ICML'24, Che Liu from IC] MERL: Zero-Shot ECG Classification with Multimodal Learning and Test-time Clinical Knowledge Enhancement
+  - Architecture: ECG Encoder + LLM Decoder in a constrastive way, 
+  - Loss: **CLIP** loss with ECG reports
+  - Note: Trained with report, test with both report and zero-shot disease diganosis
+  - Data: PTB-XL (report + five conditions),  MIT-BIH, CPSC 
+  - Takeaway 1: This is good training for reports and tests related to diagnosis. *Reports and labels have similarities*, but how can we reverse this?
+  - 
+[arXiv'24, Che Liu from IC, Mi Zhang from Ohio] MEIT： Multi-model ECG Instruction tuning on LLM for report generaiton
+  - Architecture: ECG Encoder + LLM Decoder + promt,  cross-modal attention for alignment
+  - Loss: **Instruction tuning, Lora**
+  - Note: Trained with report, test with in-domian and new-domian (**zero-shot**) report generation, robust with signal pertubartion
+  - Data: PTB-XL, MIMIC-I V-ECG, continenst are different
+  - Takeaway: The framework of multi-model LLMs works without instruction tuning, but IT imporves about 5% (not very significant).
+  - Porblem: General baseline without LLM is missing, how good compred to MIDL22?
