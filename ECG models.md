@@ -1,3 +1,9 @@
+## ECG foundaiton models
+[arxiv23] Scaling Representation Learning from Ubiquitous ECG with State-Space Models
+  - Architecture: State-space models: S4
+  - Loss: Signal Transformations based SSL
+  - Data: Pretraining: TILES 2018 dataset public (bioshirt),  AVEC-16, SWELL-KW,  WESAD + PTB-XL, LUDB, CASE
+  - Code: [github](https://github.com/klean2050/tiles_ecg_model)
 
 ## Report generation
 
