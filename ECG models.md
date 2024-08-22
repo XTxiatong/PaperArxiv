@@ -1,3 +1,8 @@
+
+## ECG datasets
+https://arxiv.org/pdf/2405.17766
+
+
 ## ECG foundaiton models
 [arxiv23] Scaling Representation Learning from Ubiquitous ECG with State-Space Models
   - Architecture: State-space models: S4
