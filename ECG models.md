@@ -9,6 +9,12 @@ https://arxiv.org/abs/2406.18069
 - https://arxiv.org/pdf/2406.18069
 - 深圳大学&华为&CityU
 - 1272的公开数据
+- 
+[ISWC-2021] A Transformer Architecture for Stress Detection from ECG
+- https://dl.acm.org/doi/abs/10.1145/3460421.3480427
+- Ali Etemad
+- Data: WESAD and SWELL-KW, for stress detection
+
 
 ## ECG foundaiton models
 [arxiv23] Scaling Representation Learning from Ubiquitous ECG with State-Space Models
