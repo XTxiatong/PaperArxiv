@@ -4,7 +4,11 @@ https://arxiv.org/pdf/2405.17766
 
 ## wearable ECG
 https://arxiv.org/abs/2406.18069
-Large Language Models for Cuffless Blood Pressure Measurement From Wearable Biosignals https://arxiv.org/pdf/2406.18069
+
+[JBHI-2024] Large Language Models for Cuffless Blood Pressure Measurement From Wearable Biosignals 
+- https://arxiv.org/pdf/2406.18069
+- 深圳大学&华为&CityU
+- 1272的公开数据
 
 ## ECG foundaiton models
 [arxiv23] Scaling Representation Learning from Ubiquitous ECG with State-Space Models
@@ -14,7 +18,6 @@ Large Language Models for Cuffless Blood Pressure Measurement From Wearable Bios
   - Code: [github](https://github.com/klean2050/tiles_ecg_model)
 
 ## Report generation
-
 [MIDL22] Learning to automatically generate accurate ECG captions
   - Architecture: ECG encoder + **transformer**
   - Loss: report text cross entropy
@@ -35,7 +38,7 @@ Large Language Models for Cuffless Blood Pressure Measurement From Wearable Bios
   - Note: big framework but only used ECG for experiments
   - Data: PTB-XL+ (five arrhythmia), Apena-ECG (presence of apnea)
 
-[EACL23, CMU]Transfer Knowledge from Natural Language to Electrocardiography: Can We Detect Cardiovascular Disease Through Language Models?  
+[EACL23, CMU] Transfer Knowledge from Natural Language to Electrocardiography: Can We Detect Cardiovascular Disease Through Language Models?  
   - Architecture: Encoder (ECG + ECG features), Decoder (**LLMs**) 
   - Loss: No promot, report generation loss
   - Note: Trained with report generation, test with both report generation and zero-shot disease diganosis (**how ?**)
