@@ -22,6 +22,7 @@ https://arxiv.org/abs/2406.18069
 [Cinc24] Prediction of Sex From a 12-lead ECG Using Deep Learning: External Validation and Interpretation
 - https://cinc.org/2024/Program/accepted/288_Preprint.pdf
 - Seliency map to higight the features for sex prediction
+- Conclusion: this is not for clinical used, but demonstrate ECG contain rich information for profile
 
   
 ## ECG foundaiton models
