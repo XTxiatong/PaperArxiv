@@ -15,7 +15,15 @@ https://arxiv.org/abs/2406.18069
 - Ali Etemad
 - Data: WESAD and SWELL-KW, for stress detection
 
+[CinC24] Cross-Modal Attention Fusion of Electrocardiogram Emotion and Voiceprint for Depression Detection
+- https://cinc.org/2024/Program/accepted/183_Preprint.pdf
+- Data: WESAD and SWELL-KW, for stress detection
 
+[Cinc24] Prediction of Sex From a 12-lead ECG Using Deep Learning: External Validation and Interpretation
+- https://cinc.org/2024/Program/accepted/288_Preprint.pdf
+- Seliency map to higight the features for sex prediction
+
+  
 ## ECG foundaiton models
 [arxiv23] Scaling Representation Learning from Ubiquitous ECG with State-Space Models
   - Architecture: State-space models: S4
