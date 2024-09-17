@@ -32,7 +32,7 @@ https://arxiv.org/abs/2406.18069
   - Data: Pretraining: TILES 2018 dataset public (bioshirt),  AVEC-16, SWELL-KW,  WESAD + PTB-XL, LUDB, CASE
   - Code: [github](https://github.com/klean2050/tiles_ecg_model)
 
-[arxiv24] FOUNDATION MODELS FOR ELECTROCARDIOGRAMS [link](https://arxiv.org/pdf/2407.07110)
+[arxiv24] Foundation models for ECG  [link](https://arxiv.org/pdf/2407.07110)
   - Architecture: CNN + ViT
   - Method: Contrastive, Generative, Hybrid
   - Data: Pretraining: MIMIC, CODE15, UK Biobank, SAMI, IKEM; test: PTB-XL 
