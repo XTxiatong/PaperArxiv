@@ -38,7 +38,10 @@ https://arxiv.org/abs/2406.18069
   - Data: Pretraining: MIMIC, CODE15, UK Biobank, SAMI, IKEM; test: PTB-XL 
   - Code: not found
  
-
+## ECG generation
+[KDD workshop'24] Multi-Channel Masked Autoencoder and Comprehensive Evaluations for Reconstructing 12-Lead ECG from Arbitrary Single-Lead ECG
+- https://arxiv.org/pdf/2407.11481
+- https://github.com/CHENJIAR3/MCMA
 
 ## Report generation
 [MIDL22] Learning to automatically generate accurate ECG captions
