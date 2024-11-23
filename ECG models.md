@@ -102,4 +102,8 @@ https://arxiv.org/abs/2406.18069
   - Data: PTB-XL (4.46 uncomfirmed report)
   - comparable Meteor to my experiment
   - [paper](https://openreview.net/pdf?id=UVF1AMBj9u)
- 
+
+ [arXiv'24] ECG-Chat: A Large ECG-Language Model for Cardiac Disease Diagnosis
+  - Architecture: ECG Encoder + LLM Decoder  
+  - Note: ECG pretrained with text
+  - Data: PTB-XL, MIMIC-I V-ECG 
