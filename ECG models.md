@@ -37,6 +37,12 @@ https://arxiv.org/abs/2406.18069
   - Method: Contrastive, Generative, Hybrid
   - Data: Pretraining: MIMIC, CODE15, UK Biobank, SAMI, IKEM; test: PTB-XL 
   - Code: not found
+
+[ICLR'24] GUIDING MASKED REPRESENTATION LEARNING TO CAPTURE SPATIO-TEMPORAL RELATIONSHIP OF ELECTROCARDIOGRAM
+- https://openreview.net/forum?id=WcOohbsF4H
+- 
+[ICLR'25] Reading Your Heart: Learning ECG Words and Sentences via Pre-training ECG Language Model
+-https://openreview.net/forum?id=6Hz1Ko087B
  
 ## ECG generation
 [KDD workshop'24] Multi-Channel Masked Autoencoder and Comprehensive Evaluations for Reconstructing 12-Lead ECG from Arbitrary Single-Lead ECG
