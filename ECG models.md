@@ -112,4 +112,13 @@ https://arxiv.org/abs/2406.18069
  [arXiv'24] ECG-Chat: A Large ECG-Language Model for Cardiac Disease Diagnosis
   - Architecture: ECG Encoder + LLM Decoder  
   - Note: ECG pretrained with text
-  - Data: PTB-XL, MIMIC-I V-ECG 
+  - Data: PTB-XL, MIMIC-I V-ECG
+
+## ECG-LLM
+[arXiv'24]ECG-LM: Understanding Electrocardiogram with Large Language Model
+   - Tsinghua AIR
+   - PTBXL
+   - [paper](https://spj.science.org/doi/pdf/10.34133/hds.0221)
+[npj Cardiovascular Health'24] Multi-channel masked autoencoder and conprehensive evlautions for reconsutructing 12-lead ECG from arbitary single-lead ECG
+
+
