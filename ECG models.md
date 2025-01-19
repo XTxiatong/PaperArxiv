@@ -102,6 +102,7 @@ https://arxiv.org/abs/2406.18069
   - Data: PTB-XL, MIMIC-I V-ECG, continenst are different
   - Takeaway: The framework of multi-model LLMs works without instruction tuning, but IT imporves about 5% (not very significant).
   - Porblem: General baseline without LLM is missing, **how good compred to MIDL22**?
+  - Performance: PTB-XL BLEU1 0.5ish, F1 0.7ish 
 
 [Neurips'23 workshop] JoLT: Jointly Learned Representations of Language and Time-Series
   - Architecture: ECG Encoder + Qformer + LLM Decoder  
