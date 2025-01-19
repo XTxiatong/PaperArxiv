@@ -95,7 +95,7 @@ https://arxiv.org/abs/2406.18069
   - Problem: I agree this allows disease level inferene without disease labels, and it outperms linear probe (10%) -- is 10% reasonable, why not more? 
 
     
-[arXiv'24, Che Liu from IC, Mi Zhang from Ohio] MEIT：Multi-model ECG Instruction tuning on LLM for report generaiton
+[arXiv'24, Che Liu from IC, Mi Zhang from Ohio] MEIT：Multi-model ECG Instruction tuning on LLM for report generaiton [paper](https://arxiv.org/pdf/2403.04945)
   - Architecture: ECG Encoder + LLM Decoder + promt,  cross-modal attention for alignment
   - Loss: **Instruction tuning, Lora**
   - Note: Trained with report, test with in-domian and new-domian (**zero-shot**) report generation, robust with signal pertubartion
