@@ -24,6 +24,9 @@ https://arxiv.org/abs/2406.18069
 - Seliency map to higight the features for sex prediction
 - Conclusion: this is not for clinical used, but demonstrate ECG contain rich information for profile
 
+[npj Cardiovascular Health'24] Multi-channel masked autoencoder and conprehensive evlautions for reconsutructing 12-lead ECG from arbitary single-lead ECG
+- 北大的
+- [paper](https://www.nature.com/articles/s44325-024-00036-4)
   
 ## ECG foundaiton models
 [arxiv23] Scaling Representation Learning from Ubiquitous ECG with State-Space Models
@@ -67,6 +70,35 @@ https://arxiv.org/abs/2406.18069
   - Data: TNMG public
   - Code: [github](https://github.com/NeuroSyd/signal_copilot)
 
+[arXiv'24, Che Liu from IC, Mi Zhang from Ohio] MEIT：Multi-model ECG Instruction tuning on LLM for report generaiton [paper](https://arxiv.org/pdf/2403.04945)
+  - Architecture: ECG Encoder + LLM Decoder + promt,  cross-modal attention for alignment
+  - Loss: **Instruction tuning, Lora**
+  - Note: Trained with report, test with in-domian and new-domian (**zero-shot**) report generation, robust with signal pertubartion
+  - Data: PTB-XL, MIMIC-I V-ECG, continenst are different
+  - Takeaway: The framework of multi-model LLMs works without instruction tuning, but IT imporves about 5% (not very significant).
+  - Porblem: General baseline without LLM is missing, **how good compred to MIDL22**?
+  - Performance: PTB-XL BLEU1 0.5ish, F1 0.7ish 
+
+[Neurips'23 workshop] JoLT: Jointly Learned Representations of Language and Time-Series
+  - Architecture: ECG Encoder + Qformer + LLM Decoder  
+  - Data: PTB-XL (4.46 uncomfirmed report)
+  - comparable Meteor to my experiment
+  - [paper](https://openreview.net/pdf?id=UVF1AMBj9u)
+
+ [arXiv'24] ECG-Chat: A Large ECG-Language Model for Cardiac Disease Diagnosis
+  - Architecture: ECG Encoder + LLM Decoder  
+  - Note: ECG pretrained with text
+  - Data: PTB-XL, MIMIC-I V-ECG
+  - [Paper](https://arxiv.org/abs/2408.08849)
+
+[arXiv'24]ECG-LM: Understanding Electrocardiogram with Large Language Model
+   - Tsinghua AIR
+   - PTBXL
+   - [paper](https://spj.science.org/doi/pdf/10.34133/hds.0221)
+
+
+## ECG-LLM
+
 [ML4H23, Akane, Rice] Zero-shot ECG Diagnosis with Large Language Models and Retrieval-augmented Generation
   - Architecture: ECG **features + LLMs**, construct database of domain knowledge, **RAG**
   - Loss: Using pormot no training
@@ -97,32 +129,5 @@ https://arxiv.org/abs/2406.18069
   - Takeaway: This is good training for reports and tests related to diagnosis. *Reports and labels have similarities*, but how can we reverse this?
   - Problem: I agree this allows disease level inferene without disease labels, and it outperms linear probe (10%) -- is 10% reasonable, why not more? 
 
-    
-[arXiv'24, Che Liu from IC, Mi Zhang from Ohio] MEIT：Multi-model ECG Instruction tuning on LLM for report generaiton [paper](https://arxiv.org/pdf/2403.04945)
-  - Architecture: ECG Encoder + LLM Decoder + promt,  cross-modal attention for alignment
-  - Loss: **Instruction tuning, Lora**
-  - Note: Trained with report, test with in-domian and new-domian (**zero-shot**) report generation, robust with signal pertubartion
-  - Data: PTB-XL, MIMIC-I V-ECG, continenst are different
-  - Takeaway: The framework of multi-model LLMs works without instruction tuning, but IT imporves about 5% (not very significant).
-  - Porblem: General baseline without LLM is missing, **how good compred to MIDL22**?
-  - Performance: PTB-XL BLEU1 0.5ish, F1 0.7ish 
-
-[Neurips'23 workshop] JoLT: Jointly Learned Representations of Language and Time-Series
-  - Architecture: ECG Encoder + Qformer + LLM Decoder  
-  - Data: PTB-XL (4.46 uncomfirmed report)
-  - comparable Meteor to my experiment
-  - [paper](https://openreview.net/pdf?id=UVF1AMBj9u)
-
- [arXiv'24] ECG-Chat: A Large ECG-Language Model for Cardiac Disease Diagnosis
-  - Architecture: ECG Encoder + LLM Decoder  
-  - Note: ECG pretrained with text
-  - Data: PTB-XL, MIMIC-I V-ECG
-
-## ECG-LLM
-[arXiv'24]ECG-LM: Understanding Electrocardiogram with Large Language Model
-   - Tsinghua AIR
-   - PTBXL
-   - [paper](https://spj.science.org/doi/pdf/10.34133/hds.0221)
-[npj Cardiovascular Health'24] Multi-channel masked autoencoder and conprehensive evlautions for reconsutructing 12-lead ECG from arbitary single-lead ECG
 
 
