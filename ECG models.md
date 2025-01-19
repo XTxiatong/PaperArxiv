@@ -41,9 +41,14 @@ https://arxiv.org/abs/2406.18069
   - Data: Pretraining: MIMIC, CODE15, UK Biobank, SAMI, IKEM; test: PTB-XL 
   - Code: not found
 
-[ICLR'24] GUIDING MASKED REPRESENTATION LEARNING TO CAPTURE SPATIO-TEMPORAL RELATIONSHIP OF ELECTROCARDIOGRAM
+[ICLR'24] Guiding Masked Representation Learning to Capture Spatio-Temporal Relationship of Electrocardiogram
 - https://openreview.net/forum?id=WcOohbsF4H
-- 
+  
+[ICLR'25] C-MELT: Contrastive Enhanced Masked Auto-Encoders for ECG-Language Pre-Training
+ - Manh Pham, Aaqib Saeed, Dong Ma
+ -[paper](https://arxiv.org/abs/2410.02131)
+ - outperfom MERL
+
 [ICLR'25] Reading Your Heart: Learning ECG Words and Sentences via Pre-training ECG Language Model
 - [paper](https://openreview.net/forum?id=6Hz1Ko087B) ICLR 高分
 - 北大的
