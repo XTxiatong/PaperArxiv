@@ -42,8 +42,11 @@ https://arxiv.org/abs/2406.18069
 - https://openreview.net/forum?id=WcOohbsF4H
 - 
 [ICLR'25] Reading Your Heart: Learning ECG Words and Sentences via Pre-training ECG Language Model
--https://openreview.net/forum?id=6Hz1Ko087B
- 
+- [paper](https://openreview.net/forum?id=6Hz1Ko087B) ICLR 高分
+- 北大的
+- learning token-level representation for QRS
+
+
 ## ECG generation
 [KDD workshop'24] Multi-Channel Masked Autoencoder and Comprehensive Evaluations for Reconstructing 12-Lead ECG from Arbitrary Single-Lead ECG
 - https://arxiv.org/pdf/2407.11481
