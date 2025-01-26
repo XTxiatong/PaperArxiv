@@ -3,13 +3,15 @@
 https://arxiv.org/pdf/2405.17766
 
 ## wearable ECG
-https://arxiv.org/abs/2406.18069
 
-[JBHI-2024] Large Language Models for Cuffless Blood Pressure Measurement From Wearable Biosignals 
-- https://arxiv.org/pdf/2406.18069
+[ Heart Rhythm. 2022] Remote and Wearable ECG Devices with Diagnostic Abilities in  Adults: A State-of-the-Science Scoping Review
+- [link](https://pmc.ncbi.nlm.nih.gov/articles/PMC9250606/pdf/nihms-1787437.pdf)
+
+[BCB '24] Large Language Models for Cuffless Blood Pressure Measurement From Wearable Biosignals
+- [Link](https://arxiv.org/abs/2406.18069)
 - 深圳大学&华为&CityU
 - 1272的公开数据
-- 
+
 [ISWC-2021] A Transformer Architecture for Stress Detection from ECG
 - https://dl.acm.org/doi/abs/10.1145/3460421.3480427
 - Ali Etemad
